@@ -8,7 +8,7 @@ But how exactly does the spread of michelin stars awarded look like not only acr
 
 For this project, I have undertake extensive web scraping to gather data from across the world, to take a deeper look into the michelin star world.
 
-- Analysis 
+- Analysis - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%20star%20restaurants%202020.ipynb">here.</a>
 - Web scraping/data gathering
 - Powerpoint of findings
 
