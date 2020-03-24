@@ -1,0 +1,208 @@
+,Country,no_of_stars,name,city,cuisine
+0,United States,1,Shin Sushi,Encino,Japanese
+1,United States,1,Hayato,Los Angeles,Japanese
+2,United States,1,Angler,San Francisco,Contemporary
+3,United States,1,Harbor House,Elk,Californian
+4,United States,1,Addison,San Diego,Contemporary
+5,United States,1,Taco María,Costa Mesa,Mexican
+6,United States,1,Hana re,Costa Mesa,Japanese
+7,United States,1,Shunji,Los Angeles,Japanese
+8,United States,1,Mori Sushi,Los Angeles,Japanese
+9,United States,1,Kato,West Los Angeles,Asian
+10,United States,1,Rustic Canyon,Santa Monica,Californian
+11,United States,1,Dialogue,Santa Monica,Contemporary
+12,United States,1,Bistro Na's,Temple City,Chinese
+13,United States,1,Trois Mec,Hollywood,Contemporary
+14,United States,1,Osteria Mozza,Hollywood,Italian
+15,United States,1,Kali,Hollywood,Californian
+16,United States,1,Shibumi,Los Angeles,Japanese
+17,United States,1,Q Sushi,Los Angeles,Japanese
+18,United States,1,Orsa & Winston,Los Angeles,Fusion
+19,United States,1,Le Comptoir,Los Angeles,Californian
+20,United States,1,Nozawa Bar,Beverly Hills,Japanese
+21,United States,1,Maude,Beverly Hills,Contemporary
+22,United States,1,CUT,Beverly Hills,Steakhouse
+23,United States,1,Aubergine,Carmel,Contemporary
+24,United States,1,The Kitchen,Sacramento,Contemporary
+25,United States,1,Maum,Palo Alto,Korean
+26,United States,1,Bar Crenn,San Francisco,French
+27,United States,1,Protégé,Palo Alto,Contemporary
+28,United States,1,Birdsong,San Francisco,American
+29,United States,1,Nico,San Francisco,Contemporary
+30,United States,1,Sorrel,San Francisco,Californian
+31,United States,1,Madcap,San Anselmo,Contemporary
+32,United States,1,Kinjo,San Francisco,Japanese
+33,United States,1,Kenzo,Napa,Japanese
+34,United States,1,In Situ,San Francisco,International
+35,United States,1,Hashiri,San Francisco,Japanese
+36,United States,1,Mister Jiu's,San Francisco,Chinese
+37,United States,1,jū-ni,San Francisco,Japanese
+38,United States,1,Omakase,San Francisco,Japanese
+39,United States,1,Lord Stanley,San Francisco,Californian
+40,United States,1,Sushi Yoshizumi,San Mateo,Japanese
+41,United States,1,Octavia,San Francisco,Californian
+42,United States,1,The Progress,San Francisco,Californian
+43,United States,1,Rasa,Burlingame,Indian
+44,United States,1,Mourad,San Francisco,Moroccan
+45,United States,1,Al's Place,San Francisco,Californian
+46,United States,1,Wako,San Francisco,Japanese
+47,United States,1,Kin Khao,San Francisco,Thai
+48,United States,1,Rich Table,San Francisco,Contemporary
+49,United States,1,State Bird Provisions,San Francisco,American
+50,United States,1,Keiko à Nob Hill,San Francisco,Fusion
+51,United States,1,Michael Mina,San Francisco,Contemporary
+52,United States,1,Sons & Daughters,San Francisco,Contemporary
+53,United States,1,Wakuriya,San Mateo,Japanese
+54,United States,1,Madera,Menlo Park,Contemporary
+55,United States,1,Luce,San Francisco,Contemporary
+56,United States,1,Spruce,San Francisco,Californian
+57,United States,1,SPQR,San Francisco,Italian
+58,United States,1,Madrona Manor,Healdsburg,Contemporary
+59,United States,1,The Village Pub,Woodside,Contemporary
+60,United States,1,Plumed Horse,Saratoga,Contemporary
+61,United States,1,Chez TJ,Mountain View,Contemporary
+62,United States,1,Farmhouse Inn & Restaurant,Forestville,Californian
+63,United States,1,Bouchon,Yountville,French
+64,United States,1,Gary Danko,San Francisco,Contemporary
+65,United States,1,La Toque,Rutherford,Contemporary
+66,United States,1,Auberge du Soleil,Rutherford,Californian
+67,United States,1,Next,Chicago,Contemporary
+68,United States,1,Blackbird,Chicago,Contemporary
+69,United States,1,Boka,Chicago,Contemporary
+70,United States,1,Parachute,Chicago,Fusion
+71,United States,1,Omakase Yume,Chicago,Japanese
+72,United States,1,Entente,Chicago,Contemporary
+73,United States,1,Elizabeth,Chicago,Contemporary
+74,United States,1,Goosefoot,Chicago,Contemporary
+75,United States,1,Spiaggia,Chicago,Italian
+76,United States,1,Elske,Chicago,Contemporary
+77,United States,1,Everest,Chicago,French
+78,United States,1,Kikkō,Chicago,Asian
+79,United States,1,Topolobampo,Chicago,Mexican
+80,United States,1,Mako,Chicago,Japanese
+81,United States,1,Yūgen,Chicago,Contemporary
+82,United States,1,Band of Bohemia,Chicago,Gastropub
+83,United States,1,Sepia,Chicago,American
+84,United States,1,EL Ideas,Chicago,Contemporary
+85,United States,1,Schwa,Chicago,Contemporary
+86,United States,1,North Pond,Chicago,Contemporary
+87,United States,1,Temporis,Chicago,Contemporary
+88,United States,1,Okuda,New York,Japanese
+89,United States,1,The Finch,Brooklyn,American
+90,United States,1,The Four Horsemen,New York,American
+91,United States,1,Hirohisa,New York,Japanese
+92,United States,1,Agern,New York,Scandinavian
+93,United States,1,Estela,New York,Contemporary
+94,United States,1,Sushi Inoue,New York,Japanese
+95,United States,1,Nix,New York,Vegetarian
+96,United States,1,Tuome,New York,Fusion
+97,United States,1,Sushi Amane,New York,Japanese
+98,United States,1,Claro,Brooklyn,Mexican
+99,United States,1,Satsuki,New York,Japanese
+100,United States,1,Peter Luger,Brooklyn,Steakhouse
+101,United States,1,Aldea,New York,Mediterranean
+102,United States,1,Bouley at Home,New York,Contemporary
+103,United States,1,Wallsé,New York,Austrian
+104,United States,1,Bar Uchū,New York,Japanese
+105,United States,1,Casa Mono,New York,Spanish
+106,United States,1,Le Jardinier,New York,French
+107,United States,1,Sushi Ginza Onodera,New York,Japanese
+108,United States,1,Noda,New York,Japanese
+109,United States,1,Uncle Boons,New York,Thai
+110,United States,1,Del Posto,New York,Italian
+111,United States,1,Crown Shy,New York,Contemporary
+112,United States,1,Jewel Bako,New York,Japanese
+113,United States,1,Sushi Noz,New York,Japanese
+114,United States,1,Blue Hill,New York,American
+115,United States,1,Kajitsu,New York,Japanese
+116,United States,1,NoMad,New York,Contemporary
+117,United States,1,The Musket Room,New York,Contemporary
+118,United States,1,ZZ’s Clam Bar,New York,Seafood
+119,United States,1,Oxalis,Brooklyn,Contemporary
+120,United States,1,Oxomoco,Brooklyn,Mexican
+121,United States,1,Meadowsweet,Brooklyn,Mediterranean
+122,United States,1,The River Café,Brooklyn,Contemporary
+123,United States,1,Marea,New York,Seafood
+124,United States,1,odo,New York,Japanese
+125,United States,1,Le Coucou,New York,French
+126,United States,1,Kanoyama,New York,Japanese
+127,United States,1,Cote,New York,Korean
+128,United States,1,Ai Fiori,New York,Italian
+129,United States,1,Benno,New York,Italian
+130,United States,1,Gotham Bar and Grill,New York,American
+131,United States,1,Bâtard,New York,Contemporary
+132,United States,1,Ukiyo,New York,Contemporary
+133,United States,1,Caviar Russe,New York,Contemporary
+134,United States,1,Contra,New York,Contemporary
+135,United States,1,L’Appart,New York,French
+136,United States,1,Sushi Yasuda,New York,Japanese
+137,United States,1,Tempura Matsui,New York,Japanese
+138,United States,1,Gramercy Tavern,New York,Contemporary
+139,United States,1,Casa Enrique,Long Island City,Mexican
+140,United States,1,Sushi Nakazawa,New York,Japanese
+141,United States,1,Jeju Noodle Bar,New York,Korean
+142,United States,1,The Clocktower,New York,Contemporary
+143,United States,1,Kosaka,New York,Japanese
+144,United States,1,Carbone,New York,Italian
+145,United States,1,Métier,"Washington, D.C.",Contemporary
+146,United States,1,Sushi Taro,"Washington, D.C.",Japanese
+147,United States,1,Sushi Nakazawa,"Washington, D.C.",Japanese
+148,United States,1,The Dabney,"Washington, D.C.",American
+149,United States,1,Tail Up Goat,"Washington, D.C.",Contemporary
+150,United States,1,Fiola,"Washington, D.C.",Italian
+151,United States,1,Little Pearl,"Washington, D.C.",Contemporary
+152,United States,1,Plume,"Washington, D.C.",European
+153,United States,1,Komi,"Washington, D.C.",Mediterranean
+154,United States,1,Masseria,"Washington, D.C.",Italian
+155,United States,1,Maydān,"Washington, D.C.",Middle Eastern
+156,United States,1,Bresca,"Washington, D.C.",Contemporary
+157,United States,1,Rose’s Luxury,"Washington, D.C.",Contemporary
+158,United States,1,Gravitas,"Washington, D.C.",Contemporary
+159,United States,1,Kinship,"Washington, D.C.",Contemporary
+160,United States,2,Vespertine,Culver City,Contemporary
+161,United States,2,n/naka,Los Angeles,Contemporary
+162,United States,2,Sushi Ginza Onodera,Hollywood,Japanese
+163,United States,2,Providence,Hollywood,Seafood
+164,United States,2,Somni,Beverly Hills,Contemporary
+165,United States,2,Urasawa,Beverly Hills,Japanese
+166,United States,2,Californios,San Francisco,Mexican
+167,United States,2,Lazy Bear,San Francisco,Contemporary
+168,United States,2,Saison,San Francisco,Californian
+169,United States,2,Baumé,Palo Alto,Contemporary
+170,United States,2,Commis,Oakland,Contemporary
+171,United States,2,Coi,San Francisco,Contemporary
+172,United States,2,Acquerello,San Francisco,Italian
+173,United States,2,Campton Place,San Francisco,Indian
+174,United States,2,Acadia,Chicago,Contemporary
+175,United States,2,Oriole,Chicago,Contemporary
+176,United States,2,Smyth,Chicago,Contemporary
+177,United States,2,The Modern,New York,Contemporary
+178,United States,2,Blue Hill at Stone Barns,Tarrytown,American
+179,United States,2,Ko,New York,Contemporary
+180,United States,2,Atomix,New York,Korean
+181,United States,2,Ichimura at Uchū,New York,Japanese
+182,United States,2,Atera,New York,Contemporary
+183,United States,2,Jean-Georges,New York,Contemporary
+184,United States,2,Blanca,Brooklyn,Contemporary
+185,United States,2,Jungsik,New York,Korean
+186,United States,2,Gabriel Kreuther,New York,Contemporary
+187,United States,2,Aska,Brooklyn,Scandinavian
+188,United States,2,L'Atelier de Joël Robuchon,New York,French
+189,United States,2,Daniel,New York,French
+190,United States,2,Aquavit,New York,Scandinavian
+191,United States,2,Pineapple and Pearls,"Washington, D.C.",Contemporary
+192,United States,2,minibar,"Washington, D.C.",Contemporary
+193,United States,3,SingleThread,Healdsburg,Contemporary
+194,United States,3,Benu,San Francisco,Asian
+195,United States,3,Atelier Crenn,San Francisco,Contemporary
+196,United States,3,The Restaurant at Meadowood,St. Helena,Contemporary
+197,United States,3,Manresa,Los Gatos,Contemporary
+198,United States,3,The French Laundry,Yountville,Contemporary
+199,United States,3,Quince,San Francisco,Contemporary
+200,United States,3,Alinea,Chicago,Contemporary
+201,United States,3,Eleven Madison Park,New York,Contemporary
+202,United States,3,Per Se,New York,Contemporary
+203,United States,3,Masa,New York,Japanese
+204,United States,3,Le Bernardin,New York,Seafood
+205,United States,3,Chef's Table at Brooklyn Fare,New York,Contemporary
+206,United States,3,The Inn at Little Washington,"Washington, D.C.",American

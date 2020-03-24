@@ -1,0 +1,629 @@
+,Country,no_of_stars,name,city,cuisine
+0,France,1,Vistamar,Monte-Carlo,Modern cuisine
+1,France,1,Le Blue Bay,Monte-Carlo,Creative
+2,France,1,Yoshi,Monte-Carlo,Japanese
+3,France,1,Le Grill,Monte-Carlo,Classic cuisine
+4,France,1,Le Georges,Chartres,Modern cuisine
+5,France,1,La Poule au Pot,Paris,Traditional cuisine
+6,France,1,Pages,Paris,Creative
+7,France,1,L'Arcane,Paris,Modern cuisine
+8,France,1,Hostellerie de Levernois,Levernois,Modern cuisine
+9,France,1,L'Auberge de Bagatelle,Le Mans,Modern cuisine
+10,France,1,Mavrommatis,Paris,Greek
+11,France,1,Côté Jardin,Gien,Creative
+12,France,1,Le Duèze,Mercuès,Modern cuisine
+13,France,1,Cyril Attrazic,Aumont-Aubrac,Modern cuisine
+14,France,1,Le Saint-Estève,Le Tholonet,Modern cuisine
+15,France,1,Abri,Paris,Modern cuisine
+16,France,1,Le Cénacle,Toulouse,Modern cuisine
+17,France,1,Le Vieux Logis,Trémolat,Modern cuisine
+18,France,1,Le Jasmin,Saint-Sylvestre-sur-Lot,Modern cuisine
+19,France,1,L'Amaryllis,Saint-Rémy,Creative
+20,France,1,Yoshinori,Paris,Modern cuisine
+21,France,1,Manoir de la Boulaie,Haute-Goulaine,Creative
+22,France,1,À Contre Sens,Caen,Modern cuisine
+23,France,1,Intuition,Saint-Lô,Creative
+24,France,1,The Marcel,Sète,Mediterranean
+25,France,1,Têtedoie,Lyon,Modern cuisine
+26,France,1,Au Vieux Couvent,Rhinau,Creative
+27,France,1,Holen,Rennes,Market cuisine
+28,France,1,Dan B.,Ventabren,Modern cuisine
+29,France,1,La Chaumière,Dole,Creative
+30,France,1,La Mirande,Avignon,Classic cuisine
+31,France,1,Restaurant De Lauzun,Pézenas,Modern cuisine
+32,France,1,Garopapilles,Bordeaux,Modern cuisine
+33,France,1,L'Épuisette,Marseille,Seafood
+34,France,1,Jacques Faussat,Paris,Traditional cuisine
+35,France,1,Auberge de la Tour,Marcolès,Modern cuisine
+36,France,1,NESO,Paris,Creative
+37,France,1,Le Chantecler,Nice,Modern cuisine
+38,France,1,Rodolphe,Rouen,Modern cuisine
+39,France,1,Le Quincangrogne,Dampmart,Modern cuisine
+40,France,1,Château de la Treyne,Lacave,Classic cuisine
+41,France,1,Auberge St-Jean,Saint-Jean-de-Blaignac,Creative
+42,France,1,Umami,Strasbourg,Creative
+43,France,1,G.a. au Manoir de Rétival,Caudebec-en-Caux,Modern cuisine
+44,France,1,Brikéténia,Guéthary,Modern cuisine
+45,France,1,Jean-Claude Leclerc,Clermont-Ferrand,Modern cuisine
+46,France,1,La Meynardie,Salignac-Eyvigues,Modern cuisine
+47,France,1,Aigue Marine,Tréguier,Creative
+48,France,1,Le Bec au Cauchois,Valmont,Creative
+49,France,1,Restaurant Sevin,Avignon,Modern cuisine
+50,France,1,L'Éveil des Sens,Mayenne,Modern cuisine
+51,France,1,La Table de Chaintré,Chaintré,Modern cuisine
+52,France,1,L'Innocence,Paris,Modern cuisine
+53,France,1,Äponem - Auberge du Presbytère,Vailhan,Modern cuisine
+54,France,1,Auberge du Cellier,Montner,Modern cuisine
+55,France,1,L'Escarbille,Meudon,Modern cuisine
+56,France,1,L'Atelier Yssoirien,Issoire,Modern cuisine
+57,France,1,La Table des Frères Ibarboure,Bidart,Modern cuisine
+58,France,1,Tomy & Co,Paris,Modern cuisine
+59,France,1,Tour d'Argent,Paris,Modern cuisine
+60,France,1,Jean-Marc Pérochon,Brétignolles-sur-Mer,Modern cuisine
+61,France,1,Restaurant H,Paris,Creative
+62,France,1,Le Mas Bottero,Saint-Cannat,Modern cuisine
+63,France,1,L'Oiseau Bleu,Bordeaux,Modern cuisine
+64,France,1,Kasbür,Saverne,Modern cuisine
+65,France,1,Saisons,Écully,Modern cuisine
+66,France,1,Pierre,Mâcon,Classic cuisine
+67,France,1,Aida,Paris,Japanese
+68,France,1,L'Aspérule,Dijon,Modern cuisine
+69,France,1,Le Patio,Arcachon,Modern cuisine
+70,France,1,Entre Vigne et Garrigue,Pujaut,Modern cuisine
+71,France,1,Le Panoramique - Domaine de la Corniche,Rolleboise,Modern cuisine
+72,France,1,Les Fresques,Évian-les-Bains,Modern cuisine
+73,France,1,U Santa Marina,Porto-Vecchio,Modern cuisine
+74,France,1,Quinsou,Paris,Creative
+75,France,1,L'Orchidée,Altkirch,Thai
+76,France,1,L'Arbre au Soleil,Le Lavandou,Modern cuisine
+77,France,1,L'Aromate,Nice,Modern cuisine
+78,France,1,Château de Locguénolé,Kervignac,Modern cuisine
+79,France,1,L'Auberge de Montmin,Talloires-Montmin,Traditional cuisine
+80,France,1,Le Moulin de l'Abbaye,Brantôme,Modern cuisine
+81,France,1,L'Impertinent,Biarritz,Creative
+82,France,1,Domaine d'Auriac,Carcassonne,Classic cuisine
+83,France,1,Le Violon d'Ingres,Paris,Traditional cuisine
+84,France,1,La Chapelle,Montluçon,Modern cuisine
+85,France,1,Thierry Schwartz - Le Restaurant,Obernai,Creative
+86,France,1,Stéphane Tournié - Les Jardins de l'Opéra,Toulouse,Modern cuisine
+87,France,1,Le Pavillon des Boulevards,Bordeaux,Creative
+88,France,1,Les Trois Dômes,Lyon,Modern cuisine
+89,France,1,L'Atelier du Peintre,Colmar,Creative
+90,France,1,La Grange de Belle-Église,Belle-Église,Classic cuisine
+91,France,1,La Marande,Mirande,Modern cuisine
+92,France,1,Auberge du Dun,Le Bourg-Dun,Classic cuisine
+93,France,1,L'Or Q'idée,Pontoise,Modern cuisine
+94,France,1,L'Essentiel,Périgueux,Modern cuisine
+95,France,1,Apicius,Paris,Modern cuisine
+96,France,1,Côté Cuisine,Carnac,Modern cuisine
+97,France,1,La Table du Boisniard,Chambretaud,Modern cuisine
+98,France,1,L'Écrin,Paris,Modern cuisine
+99,France,1,Alain Llorca,La Colle-sur-Loup,Provençal
+100,France,1,La Table de l'Ours,Val-d'Isère,Modern cuisine
+101,France,1,Saisons,Marseille,Modern cuisine
+102,France,1,La Bastide de Moustiers,Moustiers-Sainte-Marie,Provençal
+103,France,1,La Vieille Fontaine,Avignon,Modern cuisine
+104,France,1,Baieta,Paris,Modern cuisine
+105,France,1,Hostellerie Les Gorges de Pennafort,Callas,Modern cuisine
+106,France,1,Le Prieuré,Villeneuve-lès-Avignon,Modern cuisine
+107,France,1,L'Amphitryon,Lorient,Seafood
+108,France,1,Le Bon Accueil,Malbuisson,Modern cuisine
+109,France,1,Le Faham by Kelly Rangama,Paris,Modern cuisine
+110,France,1,La Gouesnière,Saint-Méloir-des-Ondes,Modern cuisine
+111,France,1,Pertinence,Paris,Modern cuisine
+112,France,1,Hedone,Toulouse,Creative
+113,France,1,La Robe,Montaigu,Modern cuisine
+114,France,1,Le Gambetta,Saumur,Creative
+115,France,1,Les Voiles d'Or,Neuville-lès-Dieppe,Modern cuisine
+116,France,1,L'Orée de la Forêt,Étouy,Modern cuisine
+117,France,1,L'Étang du Moulin,Bonnétage,Modern cuisine
+118,France,1,Louis,Paris,Modern cuisine
+119,France,1,Chez Michèle,Languimberg,Modern cuisine
+120,France,1,Restaurant de Tourrel,Saint-Rémy-de-Provence,Modern cuisine
+121,France,1,La Renaissance,Argentan,Modern cuisine
+122,France,1,La Sommelière,Lyon,Modern cuisine
+123,France,1,Les Trois Rochers,Combrit,Modern cuisine
+124,France,1,Hostellerie de la Pointe St-Mathieu,Le Conquet,Modern cuisine
+125,France,1,Le P'tit Polyte,Les Deux-Alpes,Modern cuisine
+126,France,1,Sola,Paris,Modern cuisine
+127,France,1,Elsa,Roquebrune,Mediterranean
+128,France,1,Aux Terrasses,Tournus,Modern cuisine
+129,France,1,La Scène Thélème,Paris,Modern cuisine
+130,France,1,L'Arnsbourg,Baerenthal,Modern cuisine
+131,France,1,Les Pêcheurs,Juan-les-Pins,Mediterranean
+132,France,1,Auberge St-Walfrid,Sarreguemines,Traditional cuisine
+133,France,1,Le Champ des Lunes,Lauris,Modern cuisine
+134,France,1,Le Foch,Reims,Modern cuisine
+135,France,1,Les Terraillers,Biot,Creative
+136,France,1,Le Sérac,Saint-Gervais-les-Bains,Modern cuisine
+137,France,1,Les Bories,Gordes,Modern cuisine
+138,France,1,La Réserve Rimbaud,Montpellier,Modern cuisine
+139,France,1,Girardin - Gastronomique,Colmar,Modern cuisine
+140,France,1,Carré des Feuillants,Paris,Modern cuisine
+141,France,1,Le Raisin,Pont-de-Vaux,Modern cuisine
+142,France,1,Alcyone,Marseille,Modern cuisine
+143,France,1,La Mare aux Oiseaux,Saint-Joachim,Creative
+144,France,1,Maison Chabran - La Grande Table,Pont-de-l'Isère,Classic cuisine
+145,France,1,Vieux Pont,Belcastel,Modern cuisine
+146,France,1,Accents Table Bourse,Paris,Modern cuisine
+147,France,1,Lasserre,Paris,Classic cuisine
+148,France,1,La Flibuste-Martin's,Villeneuve-Loubet-Plage,Modern cuisine
+149,France,1,Prairial,Lyon,Modern cuisine
+150,France,1,Sushi B,Paris,Japanese
+151,France,1,La Table de La Butte,Plouider,Modern cuisine
+152,France,1,Le Moulin de la Gorce,La Roche-l'Abeille,Classic cuisine
+153,France,1,Septime,Paris,Modern cuisine
+154,France,1,Le Chiberta,Paris,Creative
+155,France,1,Les Berceaux,Épernay,Classic cuisine
+156,France,1,Anne,Paris,Classic cuisine
+157,France,1,L'Atlantide 1874 - Maison Guého,Nantes,Modern cuisine
+158,France,1,Jérôme Nutile,Nîmes,Modern cuisine
+159,France,1,Le Bénaton,Beaune,Creative
+160,France,1,La Ville Blanche,La Ville Blanche,Modern cuisine
+161,France,1,Rozó,Lille,Modern cuisine
+162,France,1,Qui Plume la Lune,Paris,Modern cuisine
+163,France,1,Maison Tiegezh,Guer,Modern cuisine
+164,France,1,Les Loges,Lyon,Modern cuisine
+165,France,1,Le Mascaret,Blainville-sur-Mer,Creative
+166,France,1,L'Odas,Rouen,Creative
+167,France,1,Moulin de la Tardoire,Montbron,Modern cuisine
+168,France,1,Le Fanal,Banyuls-sur-Mer,Modern cuisine
+169,France,1,Les Fresques,Monestier,Modern cuisine
+170,France,1,Comice,Paris,Modern cuisine
+171,France,1,La Petite Maison de Cucuron,Cucuron,Traditional cuisine
+172,France,1,Assa,Blois,Creative
+173,France,1,Au 14 Février,Lyon,Creative
+174,France,1,Likoké,Les Vans,Creative
+175,France,1,LuluRouget,Nantes,Modern cuisine
+176,France,1,Auberge des Templiers,Boismorand,Modern cuisine
+177,France,1,Les Ducs de Lorraine,Épinal,Modern cuisine
+178,France,1,Étude,Paris,Modern cuisine
+179,France,1,Le Refuge des Gourmets,Machilly,Modern cuisine
+180,France,1,Le Grand Cerf,Montchenot,Classic cuisine
+181,France,1,Le Rigmarole,Paris,Modern cuisine
+182,France,1,Auberge La Fenière,Cadenet,Provençal
+183,France,1,Le Figuier de St-Esprit,Antibes,Provençal
+184,France,1,Baumanière 1850,Courchevel 1850,Modern cuisine
+185,France,1,Aux Pesked,Saint-Brieuc,Seafood
+186,France,1,Le Cerf,Marlenheim,Modern cuisine
+187,France,1,Grand Hôtel du Lion d'Or,Romorantin-Lanthenay,Modern cuisine
+188,France,1,Le Vivarais,Vals-les-Bains,Modern cuisine
+189,France,1,Loiseau Rive Gauche,Paris,Creative
+190,France,1,Antoine,Paris,Modern cuisine
+191,France,1,Allium,Quimper,Creative
+192,France,1,Les Funambules,Strasbourg,Modern cuisine
+193,France,1,Jin,Paris,Japanese
+194,France,1,Les Apothicaires,Lyon,Creative
+195,France,1,Au 14 Février,Saint-Valentin,Modern cuisine
+196,France,1,Dyades au Domaine des Étangs,Massignac,Modern cuisine
+197,France,1,Le M,Brest,Modern cuisine
+198,France,1,L'Ostal,Clermont-Ferrand,Modern cuisine
+199,France,1,L'Almandin,Saint-Cyprien,Creative
+200,France,1,La Marine,Carteret,Modern cuisine
+201,France,1,Pont de l'Ouysse,Lacave,Modern cuisine
+202,France,1,Le Jardin des Remparts,Beaune,Modern cuisine
+203,France,1,1912,Trouville-sur-Mer,Creative
+204,France,1,Marcore,Paris,Modern cuisine
+205,France,1,Le Bistrot de Lagarde,Lagarde-d'Apt,Modern cuisine
+206,France,1,Château de Courban,Courban,Modern cuisine
+207,France,1,Le Brouillarta,Saint-Jean-de-Luz,Modern cuisine
+208,France,1,Benoit,Paris,Classic cuisine
+209,France,1,L'Arôme,Paris,Modern cuisine
+210,France,1,L'Esquisse,Annecy,Modern cuisine
+211,France,1,Le Pavé d'Auge,Beuvron-en-Auge,Classic cuisine
+212,France,1,Palégrié,Corrençon-en-Vercors,Modern cuisine
+213,France,1,La Magdeleine - Mathias Dandine,Gémenos,Provençal
+214,France,1,Shang Palace,Paris,Chinese
+215,France,1,Val d'Auge,Bondues,Modern cuisine
+216,France,1,Le Petit Hôtel du Grand Large,Portivy,Modern cuisine
+217,France,1,Le Kaïku,Saint-Jean-de-Luz,Modern cuisine
+218,France,1,Maison Prévôt,Cavaillon,Modern cuisine
+219,France,1,Le Château de Sable,Porspoder,Modern cuisine
+220,France,1,Pavyllon,Paris,Modern cuisine
+221,France,1,La Table des Blot - Auberge du Château,Dampierre-en-Yvelines,Modern cuisine
+222,France,1,Pilgrim,Paris,Modern cuisine
+223,France,1,Azimut,Le Praz,Modern cuisine
+224,France,1,La Table de la Bergerie,Le Champ-sur-Layon,Modern cuisine
+225,France,1,Julien Binz,Ammerschwihr,Modern cuisine
+226,France,1,Le Royal,Champillon,Modern cuisine
+227,France,1,Agapé,Paris,Modern cuisine
+228,France,1,L'Émulsion,Saint-Alban-de-Roche,Modern cuisine
+229,France,1,Le Saint-James,Bouliac,Modern cuisine
+230,France,1,Skab,Nîmes,Modern cuisine
+231,France,1,Ithurria,Ainhoa,Modern cuisine
+232,France,1,Auberge St-Laurent,Sierentz,Modern cuisine
+233,France,1,L'Archeste,Paris,Creative
+234,France,1,Initial,Caen,Creative
+235,France,1,"114, Faubourg",Paris,Modern cuisine
+236,France,1,Auberge de l'Abbaye,Ambronay,Modern cuisine
+237,France,1,Le Grand Bleu,Sarlat-la-Canéda,Creative
+238,France,1,Le Vivier,L'Isle-sur-la-Sorgue,Modern cuisine
+239,France,1,La Table de Nans,La Ciotat,Mediterranean
+240,France,1,L'Oiseau Blanc,Paris,Modern cuisine
+241,France,1,Le Hittau,Saint-Vincent-de-Tyrosse,Modern cuisine
+242,France,1,La Tour des Vents,Moulin-de-Malfourat,Modern cuisine
+243,France,1,Le Prieuré,Ambierle,Modern cuisine
+244,France,1,Le Candille,Mougins,Modern cuisine
+245,France,1,La Table d'Hôtes - Le Quatrième Mur,Bordeaux,Creative
+246,France,1,La Table d'Olivier,Brive-la-Gaillarde,Modern cuisine
+247,France,1,Ed.Em,Chassagne-Montrachet,Modern cuisine
+248,France,1,La Table de Patrick Raingeard,Èze-Bord-de-Mer,Creative
+249,France,1,La Table de Xavier Mathieu,Joucas,Creative
+250,France,1,Les Climats,Paris,Modern cuisine
+251,France,1,Auberge de la Charme,Prenois,Creative
+252,France,1,JAN,Nice,Creative
+253,France,1,Les Jardins de l'Espadon,Paris,Modern cuisine
+254,France,1,Les Oliviers,Bandol,Modern cuisine
+255,France,1,Le Village,Marly-le-Roi,Modern cuisine
+256,France,1,Penati al Baretto,Paris,Italian
+257,France,1,Le Pavillon,Le Touquet-Paris-Plage,Creative
+258,France,1,Alan Geaam,Paris,Creative
+259,France,1,Nicolas Carro,Carantec,Modern cuisine
+260,France,1,Divellec,Paris,Seafood
+261,France,1,Maison Decoret,Vichy,Creative
+262,France,1,Château du Mont Joly,Sampans,Modern cuisine
+263,France,1,1741,Strasbourg,Modern cuisine
+264,France,1,Au Déjeuner de Sousceyrac,Sousceyrac,Classic cuisine
+265,France,1,La Table Breizh Café,Cancale,Creative
+266,France,1,Toya,Faulquemont,Creative
+267,France,1,Fontevraud Le Restaurant,Fontevraud-l'Abbaye,Creative
+268,France,1,Loiseau des Ducs,Dijon,Modern cuisine
+269,France,1,Ô Saveurs,Rouffiac-Tolosan,Modern cuisine
+270,France,1,Racines,Rennes,Modern cuisine
+271,France,1,Hostellerie de l'Abbaye de la Celle,La Celle,Mediterranean
+272,France,1,Au Souper Fin,Frichemesnil,Modern cuisine
+273,France,1,Clovis,Tourrettes-sur-Loup,Modern cuisine
+274,France,1,Le Camélia,Bougival,Modern cuisine
+275,France,1,Atmosphères,Le Bourget-du-Lac,Creative
+276,France,1,Tentazioni,Bordeaux,Italian
+277,France,1,Emporio Armani Caffè Ristorante,Paris,Italian
+278,France,1,A Casa di Ma,Lumio,Creative
+279,France,1,Ima,Rennes,Modern cuisine
+280,France,1,Maison Kieny,Riedisheim,Modern cuisine
+281,France,1,Prima,Megève,Classic cuisine
+282,France,1,Hostellerie la Montagne,Colombey-les-Deux-Églises,Modern cuisine
+283,France,1,Les Explorateurs,Val-Thorens,Modern cuisine
+284,France,1,Le Colombier,Offranville,Modern cuisine
+285,France,1,Le Passe Temps,Lyon,Creative
+286,France,1,Hervé Busset,Conques,Creative
+287,France,1,L'Écrin de Yohann Chapuis,Tournus,Creative
+288,France,1,Château de Pray,Amboise,Modern cuisine
+289,France,1,En Pleine Nature,Quint-Fonsegrives,Modern cuisine
+290,France,1,Château de Sully,Bayeux,Modern cuisine
+291,France,1,Yam'Tcha,Paris,Creative
+292,France,1,Il Cortile,Mulhouse,Mediterranean
+293,France,1,Le Cap,Saint-Jean-Cap-Ferrat,Creative
+294,France,1,Oka,Paris,Creative
+295,France,1,La Table de Philippe Girardon,Chonas-l'Amballan,Modern cuisine
+296,France,1,Guy Lassausaie,Chasselay,Modern cuisine
+297,France,1,Flaveurs,Valence,Modern cuisine
+298,France,1,La Pomme d'Api,Saint-Pol-de-Léon,Creative
+299,France,1,Terre-Mer au Domaine de Kerdrain,Auray,Modern cuisine
+300,France,1,Helen,Paris,Seafood
+301,France,1,L'O des Vignes,Fuissé,Modern cuisine
+302,France,1,Mon Plaisir,Chamesol,Modern cuisine
+303,France,1,Le Pot d'Étain,Danjoutin,Modern cuisine
+304,France,1,Le Relais des Moines,Les Arcs,Modern cuisine
+305,France,1,Le Cloître,Mane,Creative
+306,France,1,Les Terrasses de Lyon,Lyon,Classic cuisine
+307,France,1,Ivan Vautier,Caen,Modern cuisine
+308,France,1,Le Brittany,Roscoff,Modern cuisine
+309,France,1,La Dame de Pic,Paris,Creative
+310,France,1,Le France,Villers-le-Lac,Modern cuisine
+311,France,1,Le Manoir du Lys,Bagnoles-de-l'Orne,Modern cuisine
+312,France,1,La Bastide St-Antoine,Grasse,Provençal
+313,France,1,Moulin d'Alotz,Arcangues,Creative
+314,France,1,Les Rosiers,Biarritz,Modern cuisine
+315,France,1,Le Sergent Recruteur,Paris,Modern cuisine
+316,France,1,Auberge de la Brie,Couilly-Pont-aux-Dames,Modern cuisine
+317,France,1,Automne,Paris,Modern cuisine
+318,France,1,L'Orangerie,Paris,Modern cuisine
+319,France,1,Le Belvédère,Bozouls,Modern cuisine
+320,France,1,La Gourmandière - La Table d'Olivier,Vannes,Modern cuisine
+321,France,1,Le Haut-Allier,Alleyras,Modern cuisine
+322,France,1,Michel Trama,Puymirol,Creative
+323,France,1,La Table d'Eugène,Paris,Modern cuisine
+324,France,1,La Huchette,Replonges,Modern cuisine
+325,France,1,Château de Vauchoux,Vauchoux,Classic cuisine
+326,France,1,Maximin Hellio,Deauville,Modern cuisine
+327,France,1,Le Millénaire,Reims,Modern cuisine
+328,France,1,L'Atelier Alexandre Bousquet,Biarritz,Modern cuisine
+329,France,1,Le Sénéchal,Sauveterre-de-Rouergue,Modern cuisine
+330,France,1,Ursus,Tignes,Creative
+331,France,1,La Table d'Hôte,Gevrey-Chambertin,Modern cuisine
+332,France,1,L'Ours,Vincennes,Modern cuisine
+333,France,1,Logis de la Cadène,Saint-Émilion,Modern cuisine
+334,France,1,Le Grand Cap,Leucate,Modern cuisine
+335,France,1,Jérémy Galvan,Lyon,Creative
+336,France,1,Marsan par Hélène Darroze,Paris,Modern cuisine
+337,France,1,Gordon Ramsay au Trianon,Versailles,Creative
+338,France,1,SEPT,Toulouse,Modern cuisine
+339,France,1,Nakatani,Paris,Modern cuisine
+340,France,1,Le Kléber,Crest,Modern cuisine
+341,France,1,Cicada - La Table du Hameau,Paradou,Creative
+342,France,1,Les Pyrénées,Saint-Jean-Pied-de-Port,Classic cuisine
+343,France,1,Maison Hache,Eygalières,Provençal
+344,France,1,En Marge,Aureville,Creative
+345,France,1,Le Clair de la Plume,Grignan,Modern cuisine
+346,France,1,Le Favre d'Anne,Angers,Creative
+347,France,1,Jérôme Feck,Châlons-en-Champagne,Modern cuisine
+348,France,1,Fanny Rey & Jonathan Wahid,Saint-Rémy-de-Provence,Modern cuisine
+349,France,1,La Liégeoise,Wimereux,Modern cuisine
+350,France,1,Auberge de l'Île Barbe,Lyon,Classic cuisine
+351,France,1,Maison Dufossé - La Table,Metz,Modern cuisine
+352,France,1,Lucas Carton,Paris,Modern cuisine
+353,France,1,Un Parfum de Gourmandise,Périgueux,Creative
+354,France,1,L'Ekrin by Laurent Azoulay,Méribel,Modern cuisine
+355,France,1,Cobéa,Paris,Modern cuisine
+356,France,1,Le Saison,Saint-Grégoire,Modern cuisine
+357,France,1,La Palmeraie,Gigaro,Modern cuisine
+358,France,1,La Balette,Collioure,Modern cuisine
+359,France,1,L'Oustalet,Gigondas,Modern cuisine
+360,France,1,Le Pily,Cherbourg-en-Cotentin,Creative
+361,France,1,La Nouvelle Auberge,Wihr-au-Val,Modern cuisine
+362,France,1,L'Anthocyane,Lannion,Modern cuisine
+363,France,1,La Promenade,Verfeil,Creative
+364,France,1,Choko Ona,Espelette,Modern cuisine
+365,France,1,Le Jardin des Plumes,Giverny,Creative
+366,France,1,Restaurant du Palais Royal,Paris,Creative
+367,France,1,L'Aupiho,Les Baux-de-Provence,Modern cuisine
+368,France,1,Le St-Martin,Montbéliard,Modern cuisine
+369,France,1,Le Moulin de Léré,Vailly,Modern cuisine
+370,France,1,Le Carré d'Alethius,Charmes-sur-Rhône,Modern cuisine
+371,France,1,Solstice,Paris,Creative
+372,France,1,Avel Vor,Port-Louis,Modern cuisine
+373,France,1,La Rotonde,Charbonnières-les-Bains,Modern cuisine
+374,France,1,Château de Vault de Lugny,Vault-de-Lugny,Modern cuisine
+375,France,1,Pertica,Vendôme,Creative
+376,France,1,Ze Kitchen Galerie,Paris,Creative
+377,France,1,La Closerie,Ansouis,Provençal
+378,France,1,Frenchie,Paris,Modern cuisine
+379,France,1,L'Auberge Basque,Saint-Pée-sur-Nivelle,Creative
+380,France,1,La Condesa,Paris,Creative
+381,France,1,Le Gourmet de Sèze,Lyon,Classic cuisine
+382,France,1,Pur' - Jean-François Rouquette,Paris,Creative
+383,France,1,Bruno,Lorgues,Classic cuisine
+384,France,1,La Bonne Auberge,Stiring-Wendel,Creative
+385,France,1,Château Blanchard,Chazelles-sur-Lyon,Modern cuisine
+386,France,1,Le Puits du Trésor,Lastours,Modern cuisine
+387,France,1,Transparence - La Table de Patrick Fréchin,Nancy,Modern cuisine
+388,France,1,L'Empreinte,Buxy,Modern cuisine
+389,France,1,La Matelote,Boulogne-sur-Mer,Classic cuisine
+390,France,1,Hostellerie Bérard,La Cadière-d'Azur,Modern cuisine
+391,France,1,La Ribaudière,Bourg-Charente,Creative
+392,France,1,L'Essentiel,Deauville,Modern cuisine
+393,France,1,Dominique Bouchet,Paris,Classic cuisine
+394,France,1,Le Marcq,Marcq-en-Barœul,Modern cuisine
+395,France,1,La Table du Gourmet,Riquewihr,Creative
+396,France,1,L'Axel,Fontainebleau,Modern cuisine
+397,France,1,Auberge Grand'Maison,Mûr-de-Bretagne,Modern cuisine
+398,France,1,Lait Thym Sel,Angers,Creative
+399,France,1,La Grande Cascade,Paris,Modern cuisine
+400,France,1,Haut Bonheur de la Table,Cassel,Modern cuisine
+401,France,1,Le Baudelaire,Paris,Modern cuisine
+402,France,1,Les Genêts,Brem-sur-Mer,Modern cuisine
+403,France,1,La Barbacane,Carcassonne,Classic cuisine
+404,France,1,Le Charlemagne,Pernand-Vergelesses,Creative
+405,France,1,La Table d'Uzès,Uzès,Modern cuisine
+406,France,1,Soléna,Bordeaux,Modern cuisine
+407,France,1,Albert 1er,Chamonix-Mont-Blanc,Classic cuisine
+408,France,1,L'Hysope,La Jarrie,Creative
+409,France,1,Le Jardin de Benjamin,Lorgues,Modern cuisine
+410,France,1,La Table,Lille,Modern cuisine
+411,France,1,La Table des Merville,Castanet-Tolosan,Modern cuisine
+412,France,1,La Table du Connétable,Chantilly,Modern cuisine
+413,France,1,Le Corot,Ville-d'Avray,Creative
+414,France,1,La Tour des Sens,Tencin,Creative
+415,France,1,La Table de Castigno,Assignan,Modern cuisine
+416,France,1,La Merise,Laubach,Modern cuisine
+417,France,1,La Table de la Ferme,Murtoli,Corsican
+418,France,1,La Ferme de l'Hospital,Bossey,Modern cuisine
+419,France,1,Le Dallaison,Saintes,Modern cuisine
+420,France,1,Le Prince Noir - Vivien Durand,Lormont,Modern cuisine
+421,France,1,Buerehiesel,Strasbourg,Modern cuisine
+422,France,1,Villa de l'Étang Blanc,Seignosse,Modern cuisine
+423,France,1,Le Gindreau,Saint-Médard,Creative
+424,France,1,Auberge au Bœuf,Sessenheim,Modern cuisine
+425,France,1,Fleur de Pavé,Paris,Creative
+426,France,1,Auberge de Montfleury,Saint-Germain,Modern cuisine
+427,France,1,Pierre Reboul,Aix-en-Provence,Creative
+428,France,1,La Bonne Étape,Château-Arnoux,Provençal
+429,France,1,Mariottat,Agen,Modern cuisine
+430,France,1,Le George,Paris,Italian
+431,France,1,Alliance,Paris,Modern cuisine
+432,France,1,Nomicos,Paris,Modern cuisine
+433,France,1,Roscanvec,Vannes,Creative
+434,France,1,Thierry Drapeau,Saint-Sulpice-le-Verdon,Creative
+435,France,1,Château d'Adoménil,Lunéville,Traditional cuisine
+436,France,1,Table - Bruno Verjus,Paris,Modern cuisine
+437,France,1,Aspic,Paris,Modern cuisine
+438,France,1,L'Aquarelle,Breuillet,Creative
+439,France,1,Les Trois Soleils de Montal,Saint-Céré,Modern cuisine
+440,France,1,Auberge Le Prieuré,Moirax,Creative
+441,France,1,La Source,Saint-Galmier,Modern cuisine
+442,France,1,La Terrasse,Saint-Raphaël,Provençal
+443,France,1,Le Pousse-Pied,La Tranche-sur-Mer,Market cuisine
+444,France,1,Origines,Le Broc,Modern cuisine
+445,France,1,Les Clefs d'Argent,Mont-de-Marsan,Creative
+446,France,1,Étincelles - La Gentilhommière,Sainte-Sabine,Creative
+447,France,1,La Promenade,Le Petit-Pressigny,Modern cuisine
+448,France,1,Le Jules Verne,Paris,Modern cuisine
+449,France,1,Lamartine,Le Bourget-du-Lac,Modern cuisine
+450,France,1,Auguste,Paris,Modern cuisine
+451,France,1,Domaine de Rochevilaine,Billiers,Modern cuisine
+452,France,1,Apicius,Clermont-Ferrand,Modern cuisine
+453,France,1,Le Lièvre Gourmand,Orléans,Modern cuisine
+454,France,1,La Signoria,Calvià,Modern cuisine
+455,France,1,L'Aparté,Montrabé,Modern cuisine
+456,France,1,Numéro 3,Le Tremblay-sur-Mauldre,Modern cuisine
+457,France,1,Frédéric Doucet,Charolles,Modern cuisine
+458,France,1,1131,La Bussière-sur-Ouche,Modern cuisine
+459,France,1,L'Allée des Vignes,Cajarc,Creative
+460,France,1,ERH,Paris,Modern cuisine
+461,France,1,Nature,Armentières,Modern cuisine
+462,France,1,Lalique,Bommes,Classic cuisine
+463,France,1,Restaurant des Rois,Beaulieu-sur-Mer,Modern cuisine
+464,France,1,Le Carmin,Beaune,Modern cuisine
+465,France,1,Le Chateaubriand,Paris,Modern cuisine
+466,France,1,L'Évidence,Montbazon,Modern cuisine
+467,France,1,Ô Flaveurs,Douvaine,Modern cuisine
+468,France,1,Le Pressoir,Saint-Avé,Modern cuisine
+469,France,1,Radio,Chamalières,Modern cuisine
+470,France,1,Claude Darroze,Langon,Classic cuisine
+471,France,1,Chapelle Saint-Martin,Saint-Martin-du-Fault,Modern cuisine
+472,France,1,ES,Paris,Modern cuisine
+473,France,1,Le 7ème Continent,Rixheim,Modern cuisine
+474,France,1,Auberge des Saints Pères,Aulnay-sous-Bois,Creative
+475,France,1,La Table du 11,Versailles,Modern cuisine
+476,France,1,Frédéric Simonin,Paris,Modern cuisine
+477,France,1,Auberge de la Mine,La Ferrière-aux-Étangs,Modern cuisine
+478,France,1,Copenhague,Paris,Danish
+479,France,1,Auberge à la Bonne Idée,Saint-Jean-aux-Bois,Classic cuisine
+480,France,1,L'Alchémille,Kaysersberg,Modern cuisine
+481,France,1,Château de la Gaude,Aix-en-Provence,Modern cuisine
+482,France,1,Le Farçon,La Tania,Modern cuisine
+483,France,1,Quai des Saveurs,Hagondange,Modern cuisine
+484,France,1,Maximilien,Zellenberg,Modern cuisine
+485,France,1,Le Chiquito,Méry-sur-Oise,Classic cuisine
+486,France,1,Manoir de Lan-Kerellec,Trébeurden,Seafood
+487,France,1,La Licorne Royale,Lyons-la-Forêt,Modern cuisine
+488,France,1,Château Cordeillan-Bages,Pauillac,Modern cuisine
+489,France,1,Ambroisie,Saint-Didier-de-la-Tour,Modern cuisine
+490,France,1,Auberge du Pont d'Acigné,Noyal-sur-Vilaine,Modern cuisine
+491,France,1,Le St-Placide,Saint-Servan-sur-Mer,Modern cuisine
+492,France,1,Les Hautes Roches,Rochecorbon,Traditional cuisine
+493,France,1,Le Clocher des Pères,Saint-Martin-sur-la-Chambre,Creative
+494,France,1,La Galinette,Perpignan,Creative
+495,France,1,Neige d'Été,Paris,Modern cuisine
+496,France,1,Pure & V,Nice,Modern cuisine
+497,France,1,La Chassagnette,Arles,Modern cuisine
+498,France,1,Virtus,Paris,Modern cuisine
+499,France,1,Auberge Frankenbourg,La Vancelle,Modern cuisine
+500,France,1,La Vieille Tour,Sous-la-Tour,Modern cuisine
+501,France,1,La Madeleine,Sens,Modern cuisine
+502,France,1,Faventia,Tourrettes,Modern cuisine
+503,France,1,Ken Kawasaki,Paris,Creative
+504,France,1,Une Table au Sud,Marseille,Modern cuisine
+505,France,1,La Passagère,Juan-les-Pins,Creative
+506,France,1,Le Pourquoi Pas,Dinard,Modern cuisine
+507,France,1,La Table d'à Côté,Ardon,Modern cuisine
+508,France,1,La Cachette,Valence,Creative
+509,France,1,Relais Louis XIII,Paris,Classic cuisine
+510,France,1,Les Tables de Gaspard,Saint-Crépin,Modern cuisine
+511,France,1,Le Saint-Martin,Vence,Modern cuisine
+512,France,1,Akrame,Paris,Creative
+513,France,2,Joël Robuchon Monte-Carlo,Monte-Carlo,Modern cuisine
+514,France,2,Auberge du Cheval Blanc,Lembach,Creative
+515,France,2,La Table d'Olivier Nasti,Kaysersberg,Modern cuisine
+516,France,2,La Table de l'Alpaga,Megève,Modern cuisine
+517,France,2,Jean Sulpice,Talloires,Creative
+518,France,2,La Pyramide - Patrick Henriroux,Vienne,Modern cuisine
+519,France,2,La Table de l'Espadon,Paris,Modern cuisine
+520,France,2,Le Montgomerie,Courchevel 1850,Creative
+521,France,2,Serge Vieira,Chaudes-Aigues,Creative
+522,France,2,Racine,Reims,Modern cuisine
+523,France,2,Sarkara,Courchevel 1850,Creative
+524,France,2,Au 14 Février,Saint-Amour-Bellevue,Creative
+525,France,2,La Côte d'Or,Saulieu,Modern cuisine
+526,France,2,La Maison des Bois - Marc Veyrat,Manigod,Creative
+527,France,2,Domaine des Hauts de Loire,Onzain,Classic cuisine
+528,France,2,Alexandre,Garons,Modern cuisine
+529,France,2,Hostellerie de Plaisance,Saint-Émilion,Modern cuisine
+530,France,2,Le Kintessence,Courchevel 1850,Modern cuisine
+531,France,2,Gill,Rouen,Modern cuisine
+532,France,2,Le Parc Les Crayères,Reims,Modern cuisine
+533,France,2,Maison Rostang,Paris,Classic cuisine
+534,France,2,La Scène,Paris,Modern cuisine
+535,France,2,Le Pré - Xavier Beaudiment,Clermont-Ferrand,Creative
+536,France,2,AM par Alexandre Mazzia,Marseille,Creative
+537,France,2,La Côte Saint-Jacques,Joigny,Modern cuisine
+538,France,2,Le Clarence,Paris,Modern cuisine
+539,France,2,Villa Archange,Le Cannet,Modern cuisine
+540,France,2,Paul Bocuse,Collonges-au-Mont-d'Or,Classic cuisine
+541,France,2,Le Grand Restaurant - Jean-François Piège,Paris,Modern cuisine
+542,France,2,SaQuaNa,Honfleur,Creative
+543,France,2,Le Neuvième Art,Lyon,Creative
+544,France,2,Le Pressoir d'Argent - Gordon Ramsay,Bordeaux,Modern cuisine
+545,France,2,La Marine,L'Herbaudière,Creative
+546,France,2,Hostellerie Jérôme,La Turbie,Mediterranean
+547,France,2,Les Morainières,Jongieux,Creative
+548,France,2,L'Atelier de Joël Robuchon - Étoile,Paris,Creative
+549,France,2,Relais de la Poste,Magescq,Classic cuisine
+550,France,2,L'Atelier de Joël Robuchon - St-Germain,Paris,Creative
+551,France,2,Le Taillevent,Paris,Classic cuisine
+552,France,2,L'Abysse au Pavillon Ledoyen,Paris,Japanese
+553,France,2,Anne de Bretagne,La Plaine-sur-Mer,Modern cuisine
+554,France,2,David Toutain,Paris,Creative
+555,France,2,1920,Megève,Modern cuisine
+556,France,2,Meurin,Busnes,Modern cuisine
+557,France,2,Le Puits St-Jacques,Pujaudran,Creative
+558,France,2,Les Cèdres,Granges-les-Beaumont,Classic cuisine
+559,France,2,Le Grand Véfour,Paris,Modern cuisine
+560,France,2,Takao Takano,Lyon,Creative
+561,France,2,Villa René Lalique,Wingen-sur-Moder,Creative
+562,France,2,Le Meurice Alain Ducasse,Paris,Modern cuisine
+563,France,2,Le Chabichou by Stéphane Buron,Courchevel 1850,Classic cuisine
+564,France,2,JY'S,Colmar,Creative
+565,France,2,La Grenouillère,La Madelaine-sous-Montreuil,Modern cuisine
+566,France,2,Casadelmar,Porto-Vecchio,Modern cuisine
+567,France,2,La Table Saint-Crescent,Narbonne,Creative
+568,France,2,La Fourchette des Ducs,Obernai,Creative
+569,France,2,Sur Mesure par Thierry Marx,Paris,Creative
+570,France,2,Py-r,Toulouse,Modern cuisine
+571,France,2,Le Gabriel,Paris,Modern cuisine
+572,France,2,Astrance,Paris,Creative
+573,France,2,La Palme d'Or,Cannes,Creative
+574,France,2,Jean-Luc Tartarin,Le Havre,Modern cuisine
+575,France,2,Le Coquillage,Cancale,Seafood
+576,France,2,La Bastide de Capelongue,Bonnieux,Creative
+577,France,2,L'Atelier de Jean-Luc Rabanel,Arles,Creative
+578,France,2,L'Atelier d'Edmond,Val-d'Isère,Creative
+579,France,2,Yoann Conte,Veyrier-du-Lac,Creative
+580,France,2,La Villa Madie,Cassis,Modern cuisine
+581,France,2,Le Skiff Club,La Teste-de-Buch,Modern cuisine
+582,France,2,Michel Sarran,Toulouse,Creative
+583,France,2,Auberge de l'Ill,Illhaeusern,Classic cuisine
+584,France,2,William Frachot,Dijon,Creative
+585,France,2,L'Auberge des Glazicks,Plomodiern,Creative
+586,France,2,Maison Jeunet,Arbois,Creative
+587,France,2,Sylvestre,Paris,Modern cuisine
+588,France,2,Bras,Laguiole,Creative
+589,France,2,La Voile,Ramatuelle,Modern cuisine
+590,France,2,La Table de Franck Putelat,Carcassonne,Modern cuisine
+591,France,2,La Grande Maison de Bernard Magrez,Bordeaux,Creative
+592,France,2,La Chèvre d'Or,Èze,Creative
+593,France,2,La Maison d'à Côté,Montlivault,Modern cuisine
+594,France,2,L'Abeille,Paris,Modern cuisine
+595,France,2,Mère Brazier,Lyon,Classic cuisine
+596,France,2,La Grand'Vigne,Martillac,Modern cuisine
+597,France,2,Maison Aribert,Uriage-les-Bains,Creative
+598,France,2,Flaveur,Nice,Creative
+599,France,3,Le Louis XV - Alain Ducasse à l'Hôtel de Paris,Monte-Carlo,Mediterranean
+600,France,3,Assiette Champenoise,Reims,Creative
+601,France,3,Les Prés d'Eugénie - Michel Guérard,Eugénie-les-Bains,Classic cuisine
+602,France,3,Georges Blanc,Vonnas,Creative
+603,France,3,La Vague d'Or - Cheval Blanc St-Tropez,Saint-Tropez,Creative
+604,France,3,Mirazur,Menton,Creative
+605,France,3,René et Maxime Meilleur,Saint-Martin-de-Belleville,Creative
+606,France,3,Alléno Paris au Pavillon Ledoyen,Paris,Modern cuisine
+607,France,3,Le 1947,Courchevel 1850,Creative
+608,France,3,Alain Ducasse au Plaza Athénée,Paris,Creative
+609,France,3,Pic,Valence,Creative
+610,France,3,Troisgros - Le Bois sans Feuilles,Ouches,Creative
+611,France,3,Pierre Gagnaire,Paris,Creative
+612,France,3,Le Pré Catelan,Paris,Creative
+613,France,3,L'Ambroisie,Paris,Classic cuisine
+614,France,3,Épicure,Paris,Modern cuisine
+615,France,3,Christophe Bacquié,Le Castellet,Modern cuisine
+616,France,3,Maison Lameloise,Chagny,Modern cuisine
+617,France,3,Flocons de Sel,Megève,Creative
+618,France,3,Le Cinq,Paris,Modern cuisine
+619,France,3,Guy Savoy,Paris,Creative
+620,France,3,Auberge du Vieux Puits,Fontjoncouse,Creative
+621,France,3,Arpège,Paris,Creative
+622,France,3,Kei,Paris,Modern cuisine
+623,France,3,L'Oustau de Baumanière,Les Baux-de-Provence,Modern cuisine
+624,France,3,Christopher Coutanceau,La Rochelle,Seafood
+625,France,3,Le Petit Nice,Marseille,Seafood
+626,France,3,Régis et Jacques Marcon,Saint-Bonnet-le-Froid,Creative
+627,France,3,Le Clos des Sens,Annecy,Creative

@@ -1,0 +1,373 @@
+,Country,no_of_stars,name,city,cuisine
+0,Italy,1,Caracol,BACOLI,Modern cuisine
+1,Italy,1,Villa Naj,Stradella,Modern cuisine
+2,Italy,1,Umberto De Martino,San Paolo d'Argon,Mediterranean
+3,Italy,1,Già Sotto l'Arco,CAROVIGNO,Creative
+4,Italy,1,Arnaldo-Clinica Gastronomica,RUBIERA,Emilian
+5,Italy,1,Il Palagio,Firenze,Modern cuisine
+6,Italy,1,St. George by Heinz Beck,TAORMINA,Creative
+7,Italy,1,Gardenia,CALUSO,Modern cuisine
+8,Italy,1,Virtuoso - Tenuta le Tre Virtù,San Piero a Sieve,Tuscan
+9,Italy,1,IT Milano,Milano,Contemporary
+10,Italy,1,Colline Ciociare,ACUTO,Creative
+11,Italy,1,Moma,Roma,Creative
+12,Italy,1,Meo Modo,Chiusdino,Creative
+13,Italy,1,Il Riccio,ANACAPRI,Campanian
+14,Italy,1,Claudio,BERGEGGI,Seafood
+15,Italy,1,Da Gorini,San Piero in Bagno,Modern cuisine
+16,Italy,1,El Coq,Vicenza,Creative
+17,Italy,1,Bacco,Barletta,Creative
+18,Italy,1,Al Porticciolo 84,LECCO,Seafood
+19,Italy,1,Contraste,Milano,Modern cuisine
+20,Italy,1,D.One Restaurant,Montepagano,Modern cuisine
+21,Italy,1,Il Cantuccio,ALBAVILLA,Modern cuisine
+22,Italy,1,Apostelstube,Bressanone,Modern cuisine
+23,Italy,1,Oseleta,Cavaion Veronese,Creative
+24,Italy,1,Bistrot 64,Roma,Mediterranean
+25,Italy,1,Pascucci al Porticciolo,Fiumicino,Seafood
+26,Italy,1,Gucci Osteria da Massimo Bottura,Firenze,Modern cuisine
+27,Italy,1,La Bottega del Buon Caffè,Firenze,Creative
+28,Italy,1,Schöneck,MOLINI,Regional cuisine
+29,Italy,1,Danilo Ciavattini,VITERBO,Creative
+30,Italy,1,I Salotti,Chiusi,Creative
+31,Italy,1,La Tenda Rossa,CERBAIA,Modern cuisine
+32,Italy,1,Stube Hermitage,MADONNA DI CAMPIGLIO,Creative
+33,Italy,1,Zash,Archi,Creative
+34,Italy,1,La Stüa de Michil,Corvara in Badia/Kurfar,Modern cuisine
+35,Italy,1,Lazzaro 1915,Pontelongo,Modern cuisine
+36,Italy,1,La Rei,Serralunga d'Alba,Modern cuisine
+37,Italy,1,Krèsios,Telese,Creative
+38,Italy,1,Pashà,CONVERSANO,Modern cuisine
+39,Italy,1,Anna Stuben,Ortisei/Sankt Ulrich,Creative
+40,Italy,1,Cum Quibus,SAN GIMIGNANO,Creative
+41,Italy,1,Il Tino,Fiumicino,Creative
+42,Italy,1,Marconi,Sasso Marconi,Creative
+43,Italy,1,Vintage 1997,Torino,Modern cuisine
+44,Italy,1,Lux Lucis,FORTE DEI MARMI,Creative
+45,Italy,1,Due Camini,SAVELLETRI,Modern cuisine
+46,Italy,1,Silene,SEGGIANO,Tuscan
+47,Italy,1,Ca' Matilde,Rubbianino,Modern cuisine
+48,Italy,1,Damini Macelleria & Affini,Arzignano,Italian
+49,Italy,1,Da Nadia,ERBUSCO,Seafood
+50,Italy,1,Il Parco di Villa Grey,FORTE DEI MARMI,Modern cuisine
+51,Italy,1,Spinechile,Schio,Creative
+52,Italy,1,Joia,Milano,Vegetarian
+53,Italy,1,San Martino,TREVIGLIO,Seafood
+54,Italy,1,Il Pellicano,PORTO ERCOLE,Creative
+55,Italy,1,La Présef,Mantello,Creative
+56,Italy,1,I Pupi,Bagheria,Modern cuisine
+57,Italy,1,Veritas,Napoli,Modern cuisine
+58,Italy,1,Casin del Gamba,ALTISSIMO,Modern cuisine
+59,Italy,1,Maxi,VICO EQUENSE,Creative
+60,Italy,1,Lido 84,GARDONE RIVIERA,Creative
+61,Italy,1,La Serra,POSITANO,Modern cuisine
+62,Italy,1,L’Alchimia,Milano,Creative
+63,Italy,1,Tano Passami l'Olio,Navigli,Creative
+64,Italy,1,Locanda Margon,Ravina,Creative
+65,Italy,1,Sadler,Milano,Creative
+66,Italy,1,Tilia,Dobbiaco/Toblach,Modern cuisine
+67,Italy,1,Osteria dell'Arborina,LA MORRA,Modern cuisine
+68,Italy,1,Osteria di Passignano,Passignano,Modern cuisine
+69,Italy,1,Aqua Crua,Barbarano Vicentino,Modern cuisine
+70,Italy,1,Enoteca al Parlamento Achilli,Roma,Creative
+71,Italy,1,Glicine,AMALFI,Mediterranean
+72,Italy,1,La Zanzara,CODIGORO,Seafood
+73,Italy,1,Gambero Rosso,MARINA DI GIOIOSA IONICA,Seafood
+74,Italy,1,La Capinera,TAORMINA,Creative
+75,Italy,1,Locanda di Orta,ORTA SAN GIULIO,Modern cuisine
+76,Italy,1,Kuppelrain,Castelbello/Kastelbell,Modern cuisine
+77,Italy,1,L'Asinello,Villa a Sesta,Modern cuisine
+78,Italy,1,All'Oro,Roma,Creative
+79,Italy,1,La Capanna di Eraclio,CODIGORO,Seafood
+80,Italy,1,La Tuga,ISCHIA,Modern cuisine
+81,Italy,1,Il Ridotto,Venezia,Creative
+82,Italy,1,Locanda Severino,Caggiano,Modern cuisine
+83,Italy,1,Zur Rose,San Michele/Sankt Michael,Modern cuisine
+84,Italy,1,Josè Restaurant - Tenuta Villa Guerra,Torre del Greco,Mediterranean
+85,Italy,1,Dolomieu,MADONNA DI CAMPIGLIO,Modern cuisine
+86,Italy,1,Petit Royal,COURMAYEUR,Modern cuisine
+87,Italy,1,Il Patio,POLLONE,Modern cuisine
+88,Italy,1,12 Apostoli,Verona,Modern cuisine
+89,Italy,1,Locanda San Lorenzo,PUOS D'ALPAGO,Modern cuisine
+90,Italy,1,Qafiz,Santa Cristina d'Aspromonte,Modern cuisine
+91,Italy,1,Cannavacciuolo Bistrot,Torino,Creative
+92,Italy,1,La Tavola,Laveno,Modern cuisine
+93,Italy,1,Al Metrò,SAN SALVO MARINA,Modern cuisine
+94,Italy,1,Il Falconiere,SAN MARTINO,Tuscan
+95,Italy,1,Il Gallo Cedrone,MADONNA DI CAMPIGLIO,Creative
+96,Italy,1,Antica Osteria Nonna Rosa,VICO EQUENSE,Modern cuisine
+97,Italy,1,Laite,SAPPADA,Regional cuisine
+98,Italy,1,La Magnolia,FORTE DEI MARMI,Modern cuisine
+99,Italy,1,La Fermata,Alessandria,Modern cuisine
+100,Italy,1,Marc Lanteri Al Castello,GRINZANE CAVOUR,Modern cuisine
+101,Italy,1,Innocenti Evasioni,Milano,Creative
+102,Italy,1,Mistral,BELLAGIO,Modern cuisine
+103,Italy,1,Lorenzo,FORTE DEI MARMI,Seafood
+104,Italy,1,All'Enoteca,CANALE,Modern cuisine
+105,Italy,1,Metamorfosi,Roma,Creative
+106,Italy,1,Taverna del Capitano,Marina del Cantone,Creative
+107,Italy,1,Le Colonne,CASERTA,Modern cuisine
+108,Italy,1,Berton al Lago,TORNO,Creative
+109,Italy,1,Malga Panna,MOENA,Country
+110,Italy,1,Piazzetta Milù,CASTELLAMMARE DI STABIA,Creative
+111,Italy,1,Tokuyoshi,Milano,Creative
+112,Italy,1,Iacobucci,Castel Maggiore,Italian contemporary
+113,Italy,1,Gellius,ODERZO,Modern cuisine
+114,Italy,1,Antonella Ricci-Vinod Sookar,CEGLIE MESSAPICA,Apulian
+115,Italy,1,Il Bavaglino,Terrasini,Creative
+116,Italy,1,Viva Viviana Varese,Milano,Creative
+117,Italy,1,Combal.zero,RIVOLI,Creative
+118,Italy,1,Oasis-Sapori Antichi,VALLESACCARDA,Campanian
+119,Italy,1,Giglio,LUCCA,Modern cuisine
+120,Italy,1,LoRo,TRESCORE BALNEARIO,Creative
+121,Italy,1,Cannavacciuolo Cafè & Bistrot,Novara,Modern cuisine
+122,Italy,1,I Portici,Bologna,Creative
+123,Italy,1,Osteria Altran,RUDA,Modern cuisine
+124,Italy,1,Idylio by Apreda,Roma,Italian contemporary
+125,Italy,1,Nido del Picchio,CARPANETO PIACENTINO,Modern cuisine
+126,Italy,1,Il Refettorio,CONCA DEI MARINI,Mediterranean
+127,Italy,1,Il Comandante,Napoli,Creative
+128,Italy,1,Abocar Due Cucine,Rimini,Modern cuisine
+129,Italy,1,Vecchia Malcesine,Malcesine,Modern cuisine
+130,Italy,1,La Locanda del Borgo,Telese,Creative
+131,Italy,1,Atelier,DOMODOSSOLA,Modern cuisine
+132,Italy,1,Rossellinis,RAVELLO,Modern cuisine
+133,Italy,1,Antonello Colonna Labico,Labico,Modern cuisine
+134,Italy,1,Cielo,OSTUNI,Creative
+135,Italy,1,Quintessenza,TRANI,Creative
+136,Italy,1,Ca' Vittoria,TIGLIOLE,Piedmontese
+137,Italy,1,Il Buco,SORRENTO,Modern cuisine
+138,Italy,1,La Buca,CESENATICO,Seafood
+139,Italy,1,Osteria da Fiore,Venezia,Classic cuisine
+140,Italy,1,Casa Vicina-Eataly Lingotto,Torino,Piedmontese
+141,Italy,1,Esplanade,DESENZANO DEL GARDA,Creative
+142,Italy,1,Trattoria da Amerigo,SAVIGNO,Country
+143,Italy,1,Lanterna Verde,VILLA DI CHIAVENNA,Modern cuisine
+144,Italy,1,Harry's Piccolo,Trieste,Creative
+145,Italy,1,Antica Corte Pallavicina,POLESINE PARMENSE,Country
+146,Italy,1,Spazio7,Torino,Modern cuisine
+147,Italy,1,La Veranda,BARDOLINO,Mediterranean
+148,Italy,1,Le Trabe,PAESTUM,Campanian
+149,Italy,1,Borgo San Jacopo,Firenze,Modern cuisine
+150,Italy,1,George Restaurant,Napoli,Contemporary
+151,Italy,1,Tordomatto,Roma,Modern cuisine
+152,Italy,1,Acquolina,Roma,Seafood
+153,Italy,1,President,POMPEI,Mediterranean
+154,Italy,1,Sissi,Meran/Merano,Modern cuisine
+155,Italy,1,La Ciau del Tornavento,TREISO,Modern cuisine
+156,Italy,1,Iyo,Milano,Japanese
+157,Italy,1,Signum,Malfa,Creative
+158,Italy,1,Dolce Stil Novo alla Reggia,Venaria Reale,Modern cuisine
+159,Italy,1,Quadri,Venezia,Modern cuisine
+160,Italy,1,Johannesstube,Nova Levante/Welschnofen,Modern cuisine
+161,Italy,1,Guido,Serralunga d'Alba,Piedmontese
+162,Italy,1,La Fenice,RAGUSA,Creative
+163,Italy,1,Del Cambio,Torino,Piedmontese
+164,Italy,1,Locanda Don Serafino,RAGUSA,Modern cuisine
+165,Italy,1,Il Convivio-Troiani,Roma,Modern cuisine
+166,Italy,1,Il Faro di Capo d'Orso,MAIORI,Modern cuisine
+167,Italy,1,Nostrano,Pesaro,Creative
+168,Italy,1,Il Desco,Verona,Creative
+169,Italy,1,Leon d'Oro,PRALBOINO,Modern cuisine
+170,Italy,1,Il Pievano,GAIOLE IN CHIANTI,Modern cuisine
+171,Italy,1,L'Erba del Re,Modena,Creative
+172,Italy,1,Da Candida,CAMPIONE D'ITALIA,French
+173,Italy,1,La Rucola 2.0,SIRMIONE,Creative
+174,Italy,1,Il Papavero,Eboli,Regional cuisine
+175,Italy,1,La Leggenda dei Frati,Firenze,Creative
+176,Italy,1,Felix Lo Basso,Milano,Creative
+177,Italy,1,La Tana Gourmet,ASIAGO,Modern cuisine
+178,Italy,1,Ristorante al 43,SAN GIMIGNANO,Tuscan
+179,Italy,1,Il Flauto di Pan,RAVELLO,Creative
+180,Italy,1,Massimo Camia,LA MORRA,Modern cuisine
+181,Italy,1,Cinzia da Christian e Manuel,Vercelli,Modern cuisine
+182,Italy,1,Paolo e Barbara,SAN REMO,Creative
+183,Italy,1,Tivoli,CORTINA D'AMPEZZO,Modern cuisine
+184,Italy,1,Bros',Lecce,Creative
+185,Italy,1,La Pineta,Marina di Bibbona,Seafood
+186,Italy,1,La Parolina,Trevinano,Country
+187,Italy,1,La Credenza,SAN MAURIZIO CANAVESE,Creative
+188,Italy,1,Magorabin,Torino,Creative
+189,Italy,1,Condividere,Torino,Modern cuisine
+190,Italy,1,Due Colombe,Borgonato,Modern cuisine
+191,Italy,1,Pietramare Natural Food,Isola di Capo Rizzuto,Creative
+192,Italy,1,L' ARIA,Blevio,Modern cuisine
+193,Italy,1,Il Portale,PALLANZA,Modern cuisine
+194,Italy,1,"Locanda Vecchia Pavia ""Al Mulino""",Torre del Mangano,Creative
+195,Italy,1,Villa Giulia,GARGNANO,Creative
+196,Italy,1,Il Cappero,Lipari,Mediterranean
+197,Italy,1,Aroma,Roma,Creative
+198,Italy,1,Frosio,ALMÈ,Modern cuisine
+199,Italy,1,Andreina,LORETO,Regional cuisine
+200,Italy,1,I Castagni,VIGEVANO,Country
+201,Italy,1,Vitantonio Lombardo,MATERA,Creative
+202,Italy,1,Il Centro,Priocca,Piedmontese
+203,Italy,1,La Taverna,COLLOREDO DI MONTE ALBANO,Classic cuisine
+204,Italy,1,Zass,POSITANO,Modern cuisine
+205,Italy,1,Pipero Roma,Roma,Creative
+206,Italy,1,Locanda del Sant'Uffizio-Enrico Bartolini,CIOCCARO,Modern cuisine
+207,Italy,1,Inkiostro,Parma,Creative
+208,Italy,1,Locanda del Pilone,ALBA,Creative
+209,Italy,1,The Cook,Genova,Modern cuisine
+210,Italy,1,Glass Hostaria,Roma,Creative
+211,Italy,1,Zum Löwen,Tesimo/Tisens,Creative
+212,Italy,1,Sedicesimo Secolo,Pudiano,Creative
+213,Italy,1,Re Maurì,Salerno,Creative
+214,Italy,1,Feva,CASTELFRANCO VENETO,Creative
+215,Italy,1,D'O,Cornaredo,Creative
+216,Italy,1,21.9,Pióbesi d'Alba,Creative
+217,Italy,1,Villa Maiella,GUARDIAGRELE,Cuisine from Abruzzo
+218,Italy,1,Undicesimo Vineria,TREVISO,Creative
+219,Italy,1,Trattoria Al Cacciatore-della Subida,CORMONS,Regional cuisine
+220,Italy,1,Memorie di Felix Lo Basso,TRANI,Modern cuisine
+221,Italy,1,Angelo Sabatelli,Putignano,Modern cuisine
+222,Italy,1,Materia,CERNOBBIO,Creative
+223,Italy,1,La Terrazza,Roma,Modern cuisine
+224,Italy,1,La Montecchia,SELVAZZANO DENTRO,Creative
+225,Italy,1,Otto Geleng,TAORMINA,Mediterranean
+226,Italy,1,Ristorante Castello di Fighine,SAN CASCIANO DEI BAGNI,Contemporary
+227,Italy,1,Il Cantinone e Sport Hotel Alpina,MADESIMO,Modern cuisine
+228,Italy,1,Capriccio,MANERBA DEL GARDA,Modern cuisine
+229,Italy,1,Casa Iozzìa,Vitorchiano,Modern cuisine
+230,Italy,1,Oro Restaurant,Venezia,Modern cuisine
+231,Italy,1,Coria,Caltagirone,Modern cuisine
+232,Italy,1,Al Capriolo,Vodo di Cadore,Regional cuisine
+233,Italy,1,Shalai,Linguaglossa,Modern cuisine
+234,Italy,1,La Tortuga,GARGNANO,Classic cuisine
+235,Italy,1,Al Gambero,CALVISANO,Regional cuisine
+236,Italy,1,Impronte,Bergamo,Modern cuisine
+237,Italy,1,Santa Elisabetta,Firenze,Creative
+238,Italy,1,Dal Corsaro,Cagliari,Modern cuisine
+239,Italy,1,Magione Papale,L'Aquila,Creative
+240,Italy,1,Culinaria im Farmerkreuz,Tirol/Tirolo,Modern cuisine
+241,Italy,1,Storie d'Amore,Borgoricco,Modern cuisine
+242,Italy,1,Mauro Ricciardi alla Locanda dell'Angelo,AMEGLIA,Modern cuisine
+243,Italy,1,Alpenroyal Gourmet,Selva di Val Gardena/Wölkenstein in Gröden,Creative
+244,Italy,1,Sarri,IMPERIA,Seafood
+245,Italy,1,Enoteca la Torre,Roma,Modern cuisine
+246,Italy,1,Al Sorriso,SORISO,Classic cuisine
+247,Italy,1,Terrazza Bosquet,SORRENTO,Creative
+248,Italy,1,San Martino,SCORZÈ,Modern cuisine
+249,Italy,1,Perbellini,ISOLA RIZZA,Creative
+250,Italy,1,La Caravella dal 1959,AMALFI,Campanian
+251,Italy,1,Dattilo,Strongoli,Creative
+252,Italy,1,El Molin,CAVALESE,Creative
+253,Italy,1,Astra,Collepietra/Steinegg,Creative
+254,Italy,1,Pierino Penati,VIGANO,Classic cuisine
+255,Italy,1,Il Cascinalenuovo,ISOLA D'ASTI,Modern cuisine
+256,Italy,1,La Bandiera,CIVITELLA CASANOVA,Cuisine from Abruzzo
+257,Italy,1,Acqua Pazza,PONZA,Seafood
+258,Italy,1,Osteria della Brughiera,VILLA D'ALMÈ,Creative
+259,Italy,1,Ma.Ri.Na.,Olgiate Olona,Seafood
+260,Italy,1,La Trattoria Enrico Bartolini,BADIOLA,Mediterranean
+261,Italy,1,Ambasciata,QUISTELLO,Mantuan
+262,Italy,1,Sud,Quarto,Modern cuisine
+263,Italy,1,Sapio,Catania,Modern cuisine
+264,Italy,1,Parizzi,Parma,Creative
+265,Italy,1,La Torre,Tavarnelle,Creative
+266,Italy,1,Carignano,Torino,Creative
+267,Italy,1,Bistrot,FORTE DEI MARMI,Seafood
+268,Italy,1,Le Monzù,CAPRI,Modern cuisine
+269,Italy,1,'L Chimpl,Tamiòn,Creative
+270,Italy,1,Da Francesco,CHERASCO,Creative
+271,Italy,1,Don Geppi,Sant' Agnello,Modern cuisine
+272,Italy,1,Le Petit Restaurant,COGNE,Modern cuisine
+273,Italy,1,ConFusion,Porto Cervo,Creative
+274,Italy,1,Il Piastrino,Pennabilli,Modern cuisine
+275,Italy,1,In Viaggio - Claudio Melis,Bozen,Creative
+276,Italy,1,Al Ferarùt,RIVIGNANO,Seafood
+277,Italy,1,Lunasia,VIAREGGIO,Modern cuisine
+278,Italy,1,Venissa,BURANO,Modern cuisine
+279,Italy,1,Mammà,CAPRI,Creative
+280,Italy,1,I Caffi,ACQUI TERME,Classic cuisine
+281,Italy,1,La Bottega del 30,CASTELNUOVO BERARDENGA,Tuscan
+282,Italy,1,I Tigli in Theoria,COMO,Modern cuisine
+283,Italy,1,Il Saraceno,CAVERNAGO,Modern cuisine
+284,Italy,1,Abbruzzino,Catanzaro,Modern cuisine
+285,Italy,1,Osteria Arbustico,Capaccio,Modern cuisine
+286,Italy,1,Aminta Resort,Genazzano,Creative
+287,Italy,1,Atman a Villa Rospigliosi,Lamporecchio,Creative
+288,Italy,1,Zappatori,PINEROLO,Modern cuisine
+289,Italy,1,Indaco,LACCO AMENO,Creative
+290,Italy,1,Lume by Luigi Taglienti,Milano,Modern cuisine
+291,Italy,1,Vespasia,NORCIA,Modern cuisine
+292,Italy,1,Degusto Cuisine,SAN BONIFACIO,Creative
+293,Italy,1,Romano,VIAREGGIO,Seafood
+294,Italy,1,Berton,Milano,Creative
+295,Italy,1,La Primula,SAN QUIRINO,Modern cuisine
+296,Italy,1,Casual,Bergamo,Creative
+297,Italy,1,Osteria la Fontanina,Verona,Creative
+298,Italy,1,Tantris,Novara,Creative
+299,Italy,1,Casa del Nonno 13,Mercato San Severino,Creative
+300,Italy,1,La Corte,FOLLINA,Modern cuisine
+301,Italy,1,L'Argine a Vencò,DOLEGNA DEL COLLIO,Creative
+302,Italy,1,La Palta,BORGONOVO VAL TIDONE,Creative
+303,Italy,1,Imàgo,Roma,Modern cuisine
+304,Italy,1,Osteria Perillà,CASTIGLIONE D'ORCIA,Modern cuisine
+305,Italy,1,Dolada,PIEVE D'ALPAGO,Modern cuisine
+306,Italy,1,Cracco,Milano,Modern cuisine
+307,Italy,1,Casa Vissani,Baschi,Creative
+308,Italy,1,Acquerello,FAGNANO OLONA,Creative
+309,Italy,1,Marco Martini Restaurant,Roma,Creative
+310,Italy,1,Guido,MIRAMARE,Seafood
+311,Italy,1,Bye Bye Blues,MONDELLO,Creative
+312,Italy,1,Ora D'Aria,Firenze,Modern cuisine
+313,Italy,1,Damiano Nigro,BENEVELLO,Modern cuisine
+314,Italy,1,Casamatta,Manduria,Modern cuisine
+315,Italy,1,Larossa,ALBA,Creative
+316,Italy,1,Palazzo Petrucci,Napoli,Creative
+317,Italy,1,Il Ristorante di Guido da Costigliole,SANTO STEFANO BELBO,Piedmontese
+318,Italy,1,Assaje,Parioli,Mediterranean
+319,Italy,1,Fre,MONFORTE D'ALBA,Creative
+320,Italy,1,Il Vescovado,NOLI,Modern cuisine
+321,Italy,1,Per Me Giulio Terrinoni,Roma,Creative
+322,Italy,1,Accursio,MODICA,Creative
+323,Italy,1,Il Ristorante Trussardi alla Scala,Milano,Modern cuisine
+324,Italy,1,Butterfly,MARLIA,Modern cuisine
+325,Italy,1,Stube Gourmet,ASIAGO,Creative
+326,Italy,2,Agli Amici,GODIA,Modern cuisine
+327,Italy,2,daní maison,ISCHIA,Creative
+328,Italy,2,Terra,Sarentino/Sarntal,Creative
+329,Italy,2,Trenkerstube,Tirol/Tirolo,Creative
+330,Italy,2,La Peca,LONIGO,Creative
+331,Italy,2,Vun Andrea Aprea,Milano,Modern cuisine
+332,Italy,2,Quattro Passi,Marina del Cantone,Modern cuisine
+333,Italy,2,La Madia,LICATA,Creative
+334,Italy,2,La Trota,RIVODUTRI,Creative
+335,Italy,2,Villa Crespi,ORTA SAN GIULIO,Creative
+336,Italy,2,Taverna Estia,BRUSCIANO,Creative
+337,Italy,2,Caino,MONTEMERANO,Modern cuisine
+338,Italy,2,Il Piccolo Principe,VIAREGGIO,Creative
+339,Italy,2,Antica Osteria Cera,LUGHETTO,Seafood
+340,Italy,2,Duomo,RAGUSA,Creative
+341,Italy,2,L'Olivo,ANACAPRI,Creative
+342,Italy,2,Casa Perbellini,Verona,Creative
+343,Italy,2,Don Alfonso 1890,Sant' Agata sui Due Golfi,Creative
+344,Italy,2,Glam Enrico Bartolini,Venezia,Creative
+345,Italy,2,Arnolfo,COLLE DI VAL D'ELSA,Creative
+346,Italy,2,La Madernassa,GUARENE,Creative
+347,Italy,2,Miramonti l'Altro,CONCESIO,Modern cuisine
+348,Italy,2,Antica Corona Reale,CERVERE,Piedmontese
+349,Italy,2,Villa Feltrinelli,GARGNANO,Creative
+350,Italy,2,Bracali,GHIRLANDA,Creative
+351,Italy,2,Torre del Saracino,MARINA EQUA,Creative
+352,Italy,2,Magnolia,CESENATICO,Creative
+353,Italy,2,Piccolo Lago,FONDOTOCE,Modern cuisine
+354,Italy,2,Il Luogo di Aimo e Nadia,Milano,Creative
+355,Italy,2,Gourmetstube Einhorn,Mauls/Mules,Creative
+356,Italy,2,Il Pagliaccio,Roma,Creative
+357,Italy,2,San Domenico,IMOLA,Classic cuisine
+358,Italy,2,Seta by Antonio Guida,Milano,Creative
+359,Italy,2,Madonnina del Pescatore,Marzocca,Creative
+360,Italy,2,Jasmin,Chiusa/Klausen,Creative
+361,Italy,3,Enoteca Pinchiorri,Firenze,Modern cuisine
+362,Italy,3,Dal Pescatore,Runate,Modern cuisine
+363,Italy,3,Le Calandre,RUBANO,Creative
+364,Italy,3,Reale,Castel di Sangro,Creative
+365,Italy,3,Piazza Duomo,ALBA,Creative
+366,Italy,3,Osteria Francescana,Modena,Creative
+367,Italy,3,Enrico Bartolini al Mudec,Milano,Creative
+368,Italy,3,St. Hubertus,San Cassiano/Sankt Kassian,Creative
+369,Italy,3,Da Vittorio,BRUSAPORTO,Modern cuisine
+370,Italy,3,Uliassi,SENIGALLIA,Modern cuisine
+371,Italy,3,La Pergola,Roma,Modern cuisine

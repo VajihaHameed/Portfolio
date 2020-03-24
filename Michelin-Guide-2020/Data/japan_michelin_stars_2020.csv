@@ -1,0 +1,670 @@
+,Country,no_of_stars,name,city,cuisine
+0,Japan,1,Adachi Naoto,Tokyo,Japanese
+1,Japan,1,Les Alchimistes,Tokyo,French
+2,Japan,1,Aroma Fresca,Tokyo,Italian
+3,Japan,1,Ishibashi,Tokyo,Unagi
+4,Japan,1,Ishibashi,Tokyo,Sukiyaki
+5,Japan,1,Shunnoaji Ichi,Tokyo,Japanese
+6,Japan,1,Ichikawa,Tokyo,Sushi
+7,Japan,1,Azabu Ichigo,Tokyo,Oden
+8,Japan,1,Ginza Ichigo,Tokyo,Japanese
+9,Japan,1,Sushi Isshin,Tokyo,Sushi
+10,Japan,1,Izumi,Tokyo,Fugu
+11,Japan,1,Imafuku,Tokyo,Sukiyaki
+12,Japan,1,Yotsuya Uemura,Tokyo,Japanese
+13,Japan,1,Kaiseki Ohara,Tokyo,Japanese
+14,Japan,1,Ogasawara Hakushakutei,Tokyo,Spanish
+15,Japan,1,Okina,Tokyo,Soba
+16,Japan,1,Ginza Okuda,Tokyo,Japanese
+17,Japan,1,Obana,Tokyo,Unagi
+18,Japan,1,KM,Tokyo,French
+19,Japan,1,Hananoren Kagura,Tokyo,Japanese
+20,Japan,1,Sushi Kanesaka,Tokyo,Sushi
+21,Japan,1,Nishiazabu Kikuchi,Tokyo,Japanese
+22,Japan,1,Akasaka Kitafuku,Tokyo,Crab Specialitie
+23,Japan,1,Kiraku,Tokyo,Sushi
+24,Japan,1,The Crescent,Tokyo,French
+25,Japan,1,Sushi Kuwano,Tokyo,Sushi
+26,Japan,1,Ryoriya Kodama,Tokyo,Japanese
+27,Japan,1,Shimbashi Sasada,Tokyo,Japanese
+28,Japan,1,Chez Olivier,Tokyo,French
+29,Japan,1,Signature,Tokyo,French
+30,Japan,1,Shigeyoshi,Tokyo,Japanese
+31,Japan,1,Les Chanterelles,Tokyo,French
+32,Japan,1,Shunso,Tokyo,Japanese
+33,Japan,1,Shokuzen Abe,Tokyo,Japanese
+34,Japan,1,Nishiazabu Sushi Shin,Tokyo,Sushi
+35,Japan,1,Zuisetsu,Tokyo,Chinese
+36,Japan,1,Tsukiji Suzuki,Tokyo,Japanese
+37,Japan,1,Kappo Suzuki,Tokyo,Japanese
+38,Japan,1,Seika Kobayashi,Tokyo,Japanese
+39,Japan,1,Seiju,Tokyo,Tempura
+40,Japan,1,Sekihotei,Tokyo,Japanese
+41,Japan,1,Sense,Tokyo,Chinese
+42,Japan,1,Nishiazabu Taku,Tokyo,Sushi
+43,Japan,1,Tagetsu,Tokyo,Japanese
+44,Japan,1,Tateru Yoshino Ginza,Tokyo,French
+45,Japan,1,Tapas Molecular Bar,Tokyo,Innovative
+46,Japan,1,Tamawarai,Tokyo,Soba
+47,Japan,1,Tenmasa,Tokyo,Japanese
+48,Japan,1,Tour d'Argent,Tokyo,French
+49,Japan,1,Ginza Toyoda,Tokyo,Japanese
+50,Japan,1,Torishiki,Tokyo,Yakitori
+51,Japan,1,Shinjuku Kappo Nakajima,Tokyo,Japanese
+52,Japan,1,Nakasei Uchimise,Tokyo,Steakhouse
+53,Japan,1,Sushi Nakamura,Tokyo,Sushi
+54,Japan,1,Nodaiwa,Tokyo,Unagi
+55,Japan,1,Asagaya Bird Land,Tokyo,Yakitori
+56,Japan,1,Bird Land,Tokyo,Yakitori
+57,Japan,1,Hamadaya,Tokyo,Japanese
+58,Japan,1,Piatto Suzuki,Tokyo,Italian
+59,Japan,1,Hiyama,Tokyo,Sukiyaki
+60,Japan,1,Hirosaku,Tokyo,Japanese
+61,Japan,1,Kyobashi Tempura Fukamachi,Tokyo,Tempura
+62,Japan,1,Sushi Fukumoto,Tokyo,Sushi
+63,Japan,1,Fushikino,Tokyo,Japanese
+64,Japan,1,Bvlgari il Ristorante Luca Fantin,Tokyo,Italian
+65,Japan,1,Chugoku Hanten Fureika,Tokyo,Chinese
+66,Japan,1,Sobahouse Konjikihototogisu,Tokyo,Ramen
+67,Japan,1,Ozashiki Tempura Mitsuta,Tokyo,Tempura
+68,Japan,1,Maison Paul Bocuse,Tokyo,French
+69,Japan,1,Tempura Motoyoshi,Tokyo,Tempura
+70,Japan,1,L'Asse,Tokyo,Italian
+71,Japan,1,Yakitori Ranjatai,Tokyo,Yakitori
+72,Japan,1,Requinquer,Tokyo,French
+73,Japan,1,Lugdunum Bouchon Lyonnais,Tokyo,French
+74,Japan,1,Le Coq,Tokyo,French
+75,Japan,1,Le Bourguignon,Tokyo,French
+76,Japan,1,Regalo,Tokyo,Italian
+77,Japan,1,Les Enfants Gâtés,Tokyo,French
+78,Japan,1,Les Saisons,Tokyo,French
+79,Japan,1,Ren,Tokyo,Japanese
+80,Japan,1,Azabu Rokkaku,Tokyo,Izakaya
+81,Japan,1,Lauburu,Tokyo,French
+82,Japan,1,Waketokuyama,Tokyo,Japanese
+83,Japan,1,Azure 45,Tokyo,French
+84,Japan,1,Abysse,Tokyo,French
+85,Japan,1,Ichita,Tokyo,Japanese
+86,Japan,1,Ginza Kitafuku,Tokyo,Crab Specialitie
+87,Japan,1,Oniku Karyu,Tokyo,Beef Specialities
+88,Japan,1,Sosakumenkobo Nakiryu,Tokyo,Ramen
+89,Japan,1,Azabujuban Fukuda,Tokyo,Japanese
+90,Japan,1,Yamori,Tokyo,Soba
+91,Japan,1,Le Sputnik,Tokyo,French
+92,Japan,1,Sushi Arai,Tokyo,Sushi
+93,Japan,1,Chugoku Hanten Kohakukyu (Amber Palace),Tokyo,Chinese
+94,Japan,1,L'Orgueil,Tokyo,French
+95,Japan,1,Craftale,Tokyo,French
+96,Japan,1,Kurosaki,Tokyo,Sushi
+97,Japan,1,Ciel et Sol,Tokyo,French
+98,Japan,1,Nogizaka Shin,Tokyo,Japanese
+99,Japan,1,Nihombashi-kakigaracho Sugita,Tokyo,Sushi
+100,Japan,1,Sublime,Tokyo,Innovative
+101,Japan,1,Tacubo,Tokyo,Italian
+102,Japan,1,Ristorante Honda,Tokyo,Italian
+103,Japan,1,Argile,Tokyo,French
+104,Japan,1,Azumaya,Tokyo,Japanese
+105,Japan,1,Oryori Tsuji,Tokyo,Japanese
+106,Japan,1,Ginza Ishizaki,Tokyo,Beef Specialities
+107,Japan,1,Crony,Tokyo,French
+108,Japan,1,Shiorian Yamashiro,Tokyo,Japanese
+109,Japan,1,Sushiya Ichiyanagi,Tokyo,Sushi
+110,Japan,1,Sushi Yu,Tokyo,Sushi
+111,Japan,1,Nanachome,Tokyo,Yakitori
+112,Japan,1,Heinz Beck,Tokyo,Italian
+113,Japan,1,Principio,Tokyo,Italian
+114,Japan,1,Bottega,Tokyo,Italian
+115,Japan,1,Mimosa,Tokyo,Chinese
+116,Japan,1,Lature,Tokyo,French
+117,Japan,1,La Paix,Tokyo,French
+118,Japan,1,Reikasai Ginza,Tokyo,Chinese
+119,Japan,1,L'Aube,Tokyo,French
+120,Japan,1,Akebonobashi Marutomi,Tokyo,Japanese
+121,Japan,1,Arakicho Tatsuya,Tokyo,Japanese
+122,Japan,1,L'Algorithme,Tokyo,French
+123,Japan,1,Edomae Shinsaku,Tokyo,Tempura
+124,Japan,1,Ode,Tokyo,French
+125,Japan,1,Ginza Yamanobe Edo-Chuka,Tokyo,Chinese
+126,Japan,1,Ginza Rin Nishimura,Tokyo,Sushi
+127,Japan,1,Kutan,Tokyo,Japanese
+128,Japan,1,Shichubo Yung,Tokyo,Chinese
+129,Japan,1,Jo,Tokyo,Beef Specialities
+130,Japan,1,Sincère,Tokyo,French
+131,Japan,1,Sushi Keita,Tokyo,Sushi
+132,Japan,1,Sushi Takamitsu,Tokyo,Sushi
+133,Japan,1,Sushi Matsumoto,Tokyo,Sushi
+134,Japan,1,Sumibikappo Shirosaka,Tokyo,Japanese
+135,Japan,1,Takumi,Tokyo,French
+136,Japan,1,Tanimoto,Tokyo,Japanese
+137,Japan,1,Tempura Shimomura,Tokyo,Tempura
+138,Japan,1,Tempura Maehira,Tokyo,Tempura
+139,Japan,1,Nagumo,Tokyo,Japanese
+140,Japan,1,Nanakusa,Tokyo,Japanese
+141,Japan,1,Nihombashi Sonoji,Tokyo,Tempura
+142,Japan,1,Fudomae Sushi Iwasawa,Tokyo,Sushi
+143,Japan,1,Yaoyu,Tokyo,French
+144,Japan,1,Yamazaki,Tokyo,Japanese
+145,Japan,1,La Clairière,Tokyo,French
+146,Japan,1,L'Embellir,Tokyo,French
+147,Japan,1,Recte,Tokyo,French
+148,Japan,1,AkiyamaNEW,Tokyo,Japanese
+149,Japan,1,Asahina GastronomeNEW,Tokyo,French
+150,Japan,1,Alter EgoNEW,Tokyo,Italian
+151,Japan,1,Kagurazaka AbeNEW,Tokyo,Japanese
+152,Japan,1,Kasumicho YamagamiNEW,Tokyo,Japanese
+153,Japan,1,Ginza FujiyamaNEW,Tokyo,Japanese
+154,Japan,1,SimplicitéNEW,Tokyo,French
+155,Japan,1,SioNEW,Tokyo,French
+156,Japan,1,JizozushiNEW,Tokyo,Sushi
+157,Japan,1,Jukuseizushi YorozuNEW,Tokyo,Sushi
+158,Japan,1,Shunkeian ArakakiNEW,Tokyo,Tempura
+159,Japan,1,Sushi HashimotoNEW,Tokyo,Sushi
+160,Japan,1,Takagakino SushiNEW,Tokyo,Sushi
+161,Japan,1,Takumi Sushi OwanaNEW,Tokyo,Sushi
+162,Japan,1,TenoshimaNEW,Tokyo,Japanese
+163,Japan,1,Tempura MiyashiroNEW,Tokyo,Tempura
+164,Japan,1,TowaNEW,Tokyo,Japanese
+165,Japan,1,Yakitori OminoNEW,Tokyo,Yakitori
+166,Japan,1,L'AffinageNEW,Tokyo,French
+0,Japan,2,Usukifugu Yamadaya,Tokyo,Fugu
+1,Japan,2,Tentempura Uchitsu,Tokyo,Tempura
+2,Japan,2,Esquisse,Tokyo,French
+3,Japan,2,Édition Koji Shimomura,Tokyo,French
+4,Japan,2,Okamoto,Tokyo,Japanese
+5,Japan,2,Hommage,Tokyo,French
+6,Japan,2,Akasaka Kikunoi,Tokyo,Japanese
+7,Japan,2,Sushi Kimura,Tokyo,Sushi
+8,Japan,2,Tempura Ginya,Tokyo,Tempura
+9,Japan,2,Ginza Koju,Tokyo,Japanese
+10,Japan,2,Kaiseki Komuro,Tokyo,Japanese
+11,Japan,2,Goryukubo,Tokyo,Japanese
+12,Japan,2,Tempura Kondo,Tokyo,Tempura
+13,Japan,2,Sawada,Tokyo,Sushi
+14,Japan,2,Sant Pau,Tokyo,Spanish
+15,Japan,2,Jushu,Tokyo,Japanese
+16,Japan,2,Sukiyabashi Jiro Roppongiten,Tokyo,Sushi
+17,Japan,2,Zurriola,Tokyo,Spanish
+18,Japan,2,Seizan,Tokyo,Japanese
+19,Japan,2,Seisoka,Tokyo,Japanese
+20,Japan,2,Daigo,Tokyo,Shojin
+21,Japan,2,Kaiseki Tsujitome,Tokyo,Japanese
+22,Japan,2,Narisawa,Tokyo,Innovative
+23,Japan,2,Hatsunezushi,Tokyo,Sushi
+24,Japan,2,Pierre Gagnaire,Tokyo,French
+25,Japan,2,Higuchi,Tokyo,Japanese
+26,Japan,2,Ginza Fukuju,Tokyo,Japanese
+27,Japan,2,Kioicho Fukudaya,Tokyo,Japanese
+28,Japan,2,Beige Alain Ducasse,Tokyo,French
+29,Japan,2,Mitamachi Momonoki,Tokyo,Chinese
+30,Japan,2,Yunke,Tokyo,Korean
+31,Japan,2,La Table de Joël Robuchon,Tokyo,French
+32,Japan,2,L'Atelier de Joël Robuchon,Tokyo,French
+33,Japan,2,Ryuzu,Tokyo,French
+34,Japan,2,Le Mange-Tout,Tokyo,French
+35,Japan,2,L'Effervescence,Tokyo,French
+36,Japan,2,Dominique Bouchet,Tokyo,French
+37,Japan,2,Florilège,Tokyo,French
+38,Japan,2,Higashiazabu Amamoto,Tokyo,Sushi
+39,Japan,2,Nabeno-Ism,Tokyo,French
+40,Japan,2,Harutaka,Tokyo,Sushi
+41,Japan,2,Oryori Miyasaka,Tokyo,Japanese
+42,Japan,2,Ginza ShinoharaRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Tokyo,Japanese
+43,Japan,2,Sazenka,Tokyo,Chinese
+44,Japan,2,Den,Tokyo,Innovative
+45,Japan,2,PrismaRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Tokyo,Italian
+46,Japan,2,Kobikicho Tomoki,Tokyo,Sushi
+47,Japan,2,InuaNEW,Tokyo,Innovative
+0,Japan,3,Kagurazaka Ishikawa,Tokyo,Japanese
+1,Japan,3,KadowakiRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Tokyo,Japanese
+2,Japan,3,Kanda,Tokyo,Japanese
+3,Japan,3,Quintessence,Tokyo,French
+4,Japan,3,Kohaku,Tokyo,Japanese
+5,Japan,3,Joël Robuchon,Tokyo,French
+6,Japan,3,Makimura,Tokyo,Japanese
+7,Japan,3,Azabu Yukimura,Tokyo,Japanese
+8,Japan,3,Sushi Yoshitake,Tokyo,Sushi
+9,Japan,3,Ryugin,Tokyo,Japanese
+10,Japan,3,L'Osier,Tokyo,French
+0,Japan,1,Ajikitcho Bumbuan,Osaka,Japanese
+1,Japan,1,Ajikitcho Horieten,Osaka,Japanese
+2,Japan,1,Sushidokoro Amano,Osaka,Sushi
+3,Japan,1,Ayamuya,Osaka,Yakitori
+4,Japan,1,Ayamedo,Osaka,Soba
+5,Japan,1,Iroha,Osaka,Japanese
+6,Japan,1,Iwaki,Osaka,Japanese
+7,Japan,1,Unkaku,Osaka,Japanese
+8,Japan,1,Oimatsu Kitagawa,Osaka,Japanese
+9,Japan,1,Kaishoku Shimizu,Osaka,Japanese
+10,Japan,1,Kagaman,Osaka,Japanese
+11,Japan,1,Utsubohommachi Gaku,Osaka,Japanese
+12,Japan,1,Kitamura,Osaka,Sukiyaki
+13,Japan,1,Convivialité,Osaka,French
+14,Japan,1,Shunzentamusake Soan,Osaka,Izakaya
+15,Japan,1,Shunsenwaraku Sanai,Osaka,Japanese
+16,Japan,1,Sushi Jinsei,Osaka,Sushi
+17,Japan,1,Shintaro,Osaka,Tempura
+18,Japan,1,Soba Takama,Osaka,Soba
+19,Japan,1,Différence,Osaka,French
+20,Japan,1,Kappo Hashimoto,Osaka,Japanese
+21,Japan,1,Hiraishi,Osaka,Tempura
+22,Japan,1,Sushidokoro Hirokawa,Osaka,Sushi
+23,Japan,1,Sushi Hoshiyama,Osaka,Sushi
+24,Japan,1,Kaiseki Honda,Osaka,Japanese
+25,Japan,1,Man-u,Osaka,Oden
+26,Japan,1,Sushi Minazuki,Osaka,Sushi
+27,Japan,1,Yuno,Osaka,Japanese
+28,Japan,1,Yoshiko,Osaka,Fugu
+29,Japan,1,Yoshino,Osaka,Japanese
+30,Japan,1,Rakushin,Osaka,Japanese
+31,Japan,1,Lumière,Osaka,French
+32,Japan,1,Le Pont de Ciel,Osaka,French
+33,Japan,1,Wagen,Osaka,Japanese
+34,Japan,1,Ad Hoc,Osaka,French
+35,Japan,1,Sosakuwasho Nakashima,Osaka,Japanese
+36,Japan,1,Maeshiba Ryoriten,Osaka,French
+37,Japan,1,Sobakiri masa,Osaka,Soba
+38,Japan,1,Mitsuya,Osaka,Japanese
+39,Japan,1,Shinchi Yamamoto,Osaka,Japanese
+40,Japan,1,Torisho Ishii,Osaka,Yakitori
+41,Japan,1,Choraku,Osaka,Oden
+42,Japan,1,Terada,Osaka,Japanese
+43,Japan,1,Hozenji Sushidokoro Nakatani,Osaka,Sushi
+44,Japan,1,Pierre,Osaka,French
+45,Japan,1,Agnel d'Or,Osaka,French
+46,Japan,1,Onohoué,Osaka,French
+47,Japan,1,Kawahara,Osaka,Japanese
+48,Japan,1,Kitashinchi Fukutatei,Osaka,Steakhouse
+49,Japan,1,Sui,Osaka,Japanese
+50,Japan,1,Zeshin,Osaka,Japanese
+51,Japan,1,Chugokusai S.Sawada,Osaka,Chinese
+52,Japan,1,Temmabashi Fujikawa,Osaka,Japanese
+53,Japan,1,Nishitemma Nakamura,Osaka,Japanese
+54,Japan,1,Maison Tateru Yoshino,Osaka,French
+55,Japan,1,Yonemasu,Osaka,Japanese
+56,Japan,1,La Kanro,Osaka,French
+57,Japan,1,La Baie,Osaka,French
+58,Japan,1,Alarde,Osaka,Spanish
+59,Japan,1,Ñ,Osaka,Spanish
+60,Japan,1,Oimatsu Hisano,Osaka,Japanese
+61,Japan,1,Sushiroku,Osaka,Sushi
+62,Japan,1,Naniwaryori Yu,Osaka,Japanese
+63,Japan,1,P Greco,Osaka,Italian
+64,Japan,1,Prune,Osaka,French
+65,Japan,1,Yakitori Ichimatsu,Osaka,Yakitori
+66,Japan,1,La Casa Tom Curiosa,Osaka,Italian
+67,Japan,1,Liaison,Osaka,French
+68,Japan,1,Il CentrinoNEW,Osaka,Italian
+69,Japan,1,Oryori HorikawaNEW,Osaka,Japanese
+70,Japan,1,Chi-FuNEW,Osaka,Chinese
+71,Japan,1,ShorokuNEW,Osaka,Japanese
+72,Japan,1,Sushi OhataNEW,Osaka,Sushi
+73,Japan,1,Sushi Murakami JiroNEW,Osaka,Sushi
+74,Japan,1,TeruyaNEW,Osaka,Japanese
+75,Japan,1,Tempura HanagatamiNEW,Osaka,Tempura
+76,Japan,1,NishinoNEW,Osaka,Japanese
+77,Japan,1,HatsuNEW,Osaka,Innovative
+0,Japan,2,Aoki,Osaka,Japanese
+1,Japan,2,Ichiju Nisai Ueno Minoten,Osaka,Japanese
+2,Japan,2,Kasho,Osaka,Japanese
+3,Japan,2,Kahala,Osaka,Innovative
+4,Japan,2,Kitahachi,Osaka,Fugu
+5,Japan,2,Koryu,Osaka,Japanese
+6,Japan,2,Shunsaiten Tsuchiya,Osaka,Tempura
+7,Japan,2,Sushiyoshi,Osaka,Sushi
+8,Japan,2,Yunagibashi Takoyasu,Osaka,Fugu
+9,Japan,2,Sushi Harasho,Osaka,Sushi
+10,Japan,2,Fujiya 1935,Osaka,Innovative
+11,Japan,2,Honkogetsu,Osaka,Japanese
+12,Japan,2,Masuda,Osaka,Japanese
+13,Japan,2,Miyamoto,Osaka,Japanese
+14,Japan,2,La Cime,Osaka,French
+0,Japan,3,Kashiwaya,Osaka,Japanese
+1,Japan,3,Taian,Osaka,Japanese
+2,Japan,3,Hajime,Osaka,Innovative
+0,Japan,1,Akai,Kyoto,Japanese
+1,Japan,1,Kamigamo Akiyama,Kyoto,Japanese
+2,Japan,1,Aji Fukushima,Kyoto,Japanese
+3,Japan,1,Aji Rakuzan,Kyoto,Japanese
+4,Japan,1,Iwasaki,Kyoto,Japanese
+5,Japan,1,Uozuya,Kyoto,Japanese
+6,Japan,1,Gion Okada,Kyoto,Japanese
+7,Japan,1,Ogawa,Kyoto,Japanese
+8,Japan,1,Ogawa,Kyoto,Soba
+9,Japan,1,Okina,Kyoto,Japanese
+10,Japan,1,Kako Okamoto,Kyoto,Japanese
+11,Japan,1,Gion Kawakami,Kyoto,Japanese
+12,Japan,1,Kyoboshi,Kyoto,Tempura
+13,Japan,1,Sakuragawa,Kyoto,Japanese
+14,Japan,1,Jiki Miyazawa,Kyoto,Japanese
+15,Japan,1,Shun-ai Sasaki,Kyoto,Japanese
+16,Japan,1,Tozentei,Kyoto,Japanese
+17,Japan,1,Fuguryori Tomoe,Kyoto,Fugu
+18,Japan,1,Nakazen,Kyoto,Japanese
+19,Japan,1,Gion Nishimura,Kyoto,Japanese
+20,Japan,1,Hana-Kitcho,Kyoto,Japanese
+21,Japan,1,Oryori Hayashi,Kyoto,Japanese
+22,Japan,1,Oryori Hiwatashi,Kyoto,Japanese
+23,Japan,1,Hokkoriya,Kyoto,Obanzai
+24,Japan,1,Honke Tankuma Honten,Kyoto,Japanese
+25,Japan,1,Oryori Mashita,Kyoto,Japanese
+26,Japan,1,Gion Matsudaya,Kyoto,Sushi
+27,Japan,1,Sushi Matsumoto,Kyoto,Sushi
+28,Japan,1,Mokube,Kyoto,Japanese
+29,Japan,1,Motoï,Kyoto,French
+30,Japan,1,La Biographie,Kyoto,French
+31,Japan,1,La Famille Morinaga,Kyoto,French
+32,Japan,1,Gion Rikichi,Kyoto,Japanese
+33,Japan,1,Reine des Prés,Kyoto,French
+34,Japan,1,Muromachi Wakuden,Kyoto,Japanese
+35,Japan,1,Godan Miyazawa,Kyoto,Japanese
+36,Japan,1,Naruya,Kyoto,Japanese
+37,Japan,1,Nishijin Fujiyoshi,Kyoto,Japanese
+38,Japan,1,Kinobu,Kyoto,Japanese
+39,Japan,1,Kokyu,Kyoto,Japanese
+40,Japan,1,Ten-you,Kyoto,Tempura
+41,Japan,1,Gion Iwasaki,Kyoto,Japanese
+42,Japan,1,Gion Kida,Kyoto,Japanese
+43,Japan,1,Kiyama,Kyoto,Japanese
+44,Japan,1,Gokomachi Tagawa,Kyoto,Japanese
+45,Japan,1,Shuhaku,Kyoto,Japanese
+46,Japan,1,Sushi Kappo Nakaichi,Kyoto,Japanese
+47,Japan,1,Sushi Wakon,Kyoto,Sushi
+48,Japan,1,Tempura Mizuki,Kyoto,Tempura
+49,Japan,1,Tominokoji Yamagishi,Kyoto,Japanese
+50,Japan,1,Nikunotakumi Miyoshi,Kyoto,Beef Specialities
+51,Japan,1,Nijojo Furuta,Kyoto,Japanese
+52,Japan,1,Mirei,Kyoto,Japanese
+53,Japan,1,Aoike,Kyoto,French
+54,Japan,1,Ayanokoji Karatsu,Kyoto,Japanese
+55,Japan,1,Gion Sushi Tadayasu,Kyoto,Sushi
+56,Japan,1,Gion Roiro,Kyoto,French
+57,Japan,1,Gion Fukushi,Kyoto,Japanese
+58,Japan,1,Kentan Horibe,Kyoto,Japanese
+59,Japan,1,Kodaiji Jugyuan,Kyoto,Japanese
+60,Japan,1,Sen,Kyoto,Japanese
+61,Japan,1,Sokkon Fujimoto,Kyoto,Japanese
+62,Japan,1,Droit,Kyoto,French
+63,Japan,1,Hiramatsu Kodaiji,Kyoto,French
+64,Japan,1,Fujii,Kyoto,Japanese
+65,Japan,1,Funaokayama Shimizu,Kyoto,Japanese
+66,Japan,1,Muroi,Kyoto,Japanese
+67,Japan,1,Ristorante Chimera,Kyoto,Italian
+68,Japan,1,ItoNEW,Kyoto,Japanese
+69,Japan,1,VenaNEW,Kyoto,Italian
+70,Japan,1,Oshikoji OkadaNEW,Kyoto,Japanese
+71,Japan,1,Kamanza NagashimaNEW,Kyoto,Japanese
+72,Japan,1,Kyoryori FujimotoNEW,Kyoto,Japanese
+73,Japan,1,Sushi RakumiNEW,Kyoto,Sushi
+74,Japan,1,Higashiyama YoshihisaNEW,Kyoto,Japanese
+75,Japan,1,BiniNEW,Kyoto,Italian
+0,Japan,2,Sumibi Kappo Ifuki,Kyoto,Japanese
+1,Japan,2,Gion Owatari,Kyoto,Japanese
+2,Japan,2,Ogata,Kyoto,Japanese
+3,Japan,2,Kikunoi Roan,Kyoto,Japanese
+4,Japan,2,Kyokaiseki Kichisen,Kyoto,Japanese
+5,Japan,2,Suzue,Kyoto,Japanese
+6,Japan,2,Sojiki Nakahigashi,Kyoto,Japanese
+7,Japan,2,Kappo Chihiro,Kyoto,Japanese
+8,Japan,2,Gion Nishikawa,Kyoto,Japanese
+9,Japan,2,Kyotenjin Noguchi,Kyoto,Japanese
+10,Japan,2,Kappo Hassun,Kyoto,Japanese
+11,Japan,2,Fukiage,Kyoto,Japanese
+12,Japan,2,Gion Maruyama,Kyoto,Japanese
+13,Japan,2,Kenninji Gion Maruyama,Kyoto,Japanese
+14,Japan,2,Yusokuryori Mankamero,Kyoto,Japanese
+15,Japan,2,Oryori Mitsuyasu,Kyoto,Japanese
+16,Japan,2,Shimmonzen YonemuraRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Kyoto,Innovative
+17,Japan,2,Kodaiji Wakuden,Kyoto,Japanese
+18,Japan,2,Wagokoro Izumi,Kyoto,Japanese
+19,Japan,2,Gion Matayoshi,Kyoto,Japanese
+20,Japan,2,OtagiNEW,Kyoto,Japanese
+0,Japan,3,Iida,Kyoto,Japanese
+1,Japan,3,Kikunoi Honten,Kyoto,Japanese
+2,Japan,3,Kitcho Arashiyama Honten,Kyoto,Japanese
+3,Japan,3,Gion SasakiRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Kyoto,Japanese
+4,Japan,3,Isshisoden Nakamura,Kyoto,Japanese
+5,Japan,3,Hyotei,Kyoto,Japanese
+6,Japan,3,MaedaRestaurant promoted from 1 to 2 stars or 2 to 3 stars,Kyoto,Japanese
+7,Japan,3,Mizai,Kyoto,Japanese
+0,Japan,1,Ippuan,Toyama,Japanese
+1,Japan,1,Takano,Toyama,Tempura
+2,Japan,1,Namba,Toyama,Sushi
+3,Japan,1,Fukuya,Toyama,Japanese
+4,Japan,1,La Chance,Toyama,French
+5,Japan,1,L'Ensoleiller,Toyama,French
+6,Japan,1,Daimon,Toyama,Sushi
+0,Japan,3,Yamazaki,Toyama,Japanese
+0,Japan,1,Ajidokoro Mochizuki,Aichi,Japanese
+1,Japan,1,Ajidokoro Otani,Aichi,Japanese
+2,Japan,1,Awai Joun,Aichi,Beef Specialities
+3,Japan,1,Cheval Blanc,Aichi,French
+4,Japan,1,Chez Kobe,Aichi,French
+5,Japan,1,Chugoku Hanten Reiho,Aichi,Chinese
+6,Japan,1,Enoteca Pinchiorri Nagoya,Aichi,Italian
+7,Japan,1,Gachi Soba Dojo,Aichi,Ramen
+8,Japan,1,Gallura,Aichi,Italian
+9,Japan,1,Il Aoyama,Aichi,Italian
+10,Japan,1,Imai,Aichi,Japanese
+11,Japan,1,Itamae Kappo Hanaichi,Aichi,Japanese
+12,Japan,1,Joe's Kitchen,Aichi,Chinese
+13,Japan,1,Kappo Shinsuke,Aichi,Japanese
+14,Japan,1,Kochuten,Aichi,French
+15,Japan,1,Koshino,Aichi,Sushi
+16,Japan,1,Kyoto Kitcho Nagoyaten,Aichi,Japanese
+17,Japan,1,L'Auberge de l'Ill Nagoya,Aichi,French
+18,Japan,1,La Floraison de Takeuchi,Aichi,French
+19,Japan,1,La Grande Table de Kitamura,Aichi,French
+20,Japan,1,Le Pignon,Aichi,French
+21,Japan,1,Mas de Lavande,Aichi,French
+22,Japan,1,Meidocho Chugokusai Iishin,Aichi,Chinese
+23,Japan,1,Mikan Kotohogi,Aichi,Japanese
+24,Japan,1,Mikuni Nagoya,Aichi,French
+25,Japan,1,Minamiyama Kissen,Aichi,Japanese
+26,Japan,1,Otake,Aichi,Japanese
+27,Japan,1,Otobashi Sumiya,Aichi,Japanese
+28,Japan,1,Ozashiki Tempura Ayame,Aichi,Tempura
+29,Japan,1,Settanta,Aichi,Italian
+30,Japan,1,Shimpocho En,Aichi,Soba
+31,Japan,1,Sushibito Mitoku,Aichi,Sushi
+32,Japan,1,Sushidokoro Mutsuki,Aichi,Sushi
+33,Japan,1,Vicino,Aichi,Italian
+0,Japan,2,Hasshokan,Aichi,Japanese
+1,Japan,2,Kaiseki Hachisen,Aichi,Japanese
+2,Japan,2,La Vagabonde,Aichi,French
+3,Japan,2,Myoan,Aichi,Japanese
+4,Japan,2,Reminiscence,Aichi,French
+5,Japan,2,Sekine,Aichi,Japanese
+6,Japan,2,Sushi Hijikata,Aichi,Sushi
+7,Japan,2,Sushi Shumbi Nishikawa,Aichi,Sushi
+8,Japan,2,Tempura Niitome,Aichi,Tempura
+0,Japan,3,Hijikata,Aichi,Japanese
+1,Japan,3,Ueda,Aichi,Sushi
+0,Japan,1,Cucina,Gifu,Italian
+1,Japan,1,Hida Kisetsuryori Sakana,Gifu,Japanese
+2,Japan,1,Kaikatei,Gifu,Chinese
+3,Japan,1,Kakusho,Gifu,Shojin
+4,Japan,1,Kochoan Semba,Gifu,Soba
+5,Japan,1,Shuntei Nakagawa,Gifu,European
+6,Japan,1,Sobaryori Nakasa,Gifu,Soba
+7,Japan,1,Takada Hassho,Gifu,Japanese
+8,Japan,1,Takumi Hirano,Gifu,Japanese
+0,Japan,2,Ryotei Susaki,Gifu,Japanese
+1,Japan,2,Shosaichukahiro,Gifu,Chinese
+2,Japan,2,Yanagiya,Gifu,Japanese
+0,Japan,1,Da Sempre,Mie,Italian
+1,Japan,1,Heiwazushi,Mie,Sushi
+2,Japan,1,Hinakaya,Mie,Japanese
+3,Japan,1,L'Etude,Mie,French
+4,Japan,1,La Mer,Mie,French
+5,Japan,1,Roan Atatakami,Mie,Japanese
+6,Japan,1,Shibosai Kitagawa,Mie,Chinese
+7,Japan,1,The Hiramatsu Hotels & Resorts Kashikojima,Mie,French
+0,Japan,2,Kaiseki Kamimura,Mie,Japanese
+1,Japan,2,Kappo Nishimura,Mie,Japanese
+0,Japan,3,Komada,Mie,Sushi
+0,Japan,1,Akiyama,Tottori,Japanese
+1,Japan,1,Hakushu Suzunoki,Tottori,Japanese
+2,Japan,1,Jun,Tottori,Japanese
+3,Japan,1,Shusai Kikyoya,Tottori,Japanese
+0,Japan,2,Kaniyoshi,Tottori,Crab Specialities
+1,Japan,2,Mitsuki,Tottori,Japanese
+0,Japan,1,Ajiyoshi,Hiroshima,Japanese
+1,Japan,1,AmiralNEW,Hiroshima,French
+2,Japan,1,Chiso Sottaku ItoNEW,Hiroshima,Japanese
+3,Japan,1,Fukumasa,Hiroshima,Fugu
+4,Japan,1,Hanao,Hiroshima,Japanese
+5,Japan,1,Issai,Hiroshima,Japanese
+6,Japan,1,Kappo HakutakaNEW,Hiroshima,Japanese
+7,Japan,1,Kappo Higashiyama,Hiroshima,Japanese
+8,Japan,1,Kitaoka,Hiroshima,Japanese
+9,Japan,1,Kiyo Courage,Hiroshima,French
+10,Japan,1,Kodama,Hiroshima,Japanese
+11,Japan,1,Le Jardin Gourmand,Hiroshima,French
+12,Japan,1,Le K2NEW,Hiroshima,French
+13,Japan,1,Le Miroir,Hiroshima,French
+14,Japan,1,Mille,Hiroshima,French
+15,Japan,1,Obanzai Kimura,Hiroshima,Obanzai
+16,Japan,1,OkumuraNEW,Hiroshima,Japanese
+17,Japan,1,OmaeNEW,Hiroshima,Japanese
+18,Japan,1,Oryori Sazanka,Hiroshima,Japanese
+19,Japan,1,Ozawa,Hiroshima,French
+20,Japan,1,Sushi SoboNEW,Hiroshima,Sushi
+21,Japan,1,Sushidokoro Hitoshi,Hiroshima,Sushi
+22,Japan,1,Takotsubo,Hiroshima,Japanese
+23,Japan,1,Tempura Tenko Honten,Hiroshima,Tempura
+24,Japan,1,Teuchisoba Esora,Hiroshima,Soba
+25,Japan,1,Yashu TakuNEW,Hiroshima,Japanese
+26,Japan,1,YoshizushiNEW,Hiroshima,Sushi
+27,Japan,1,Yuzen IshiokaNEW,Hiroshima,Japanese
+28,Japan,1,l'ErmitaNEW,Hiroshima,Spanish
+0,Japan,2,Hiroto,Hiroshima,French
+1,Japan,2,Ryoriya ShogetsuanNEW,Hiroshima,Japanese
+2,Japan,2,Ryoriya SobikiNEW,Hiroshima,Japanese
+3,Japan,2,Tokaan,Hiroshima,Japanese
+0,Japan,3,Nakashima,Hiroshima,Japanese
+0,Japan,1,Akakichi,Ehime,Sushi
+1,Japan,1,Chisoya Kono,Ehime,Izakaya
+2,Japan,1,Iyo Okina,Ehime,Soba
+3,Japan,1,Kaiseki Okayama,Ehime,Japanese
+4,Japan,1,Kiyomizu,Ehime,Japanese
+5,Japan,1,Shinoda,Ehime,Japanese
+6,Japan,1,Soan Tanaka,Ehime,Japanese
+7,Japan,1,Sosakuryori Kawahara,Ehime,Japanese
+8,Japan,1,Sushi Ino,Ehime,Sushi
+0,Japan,2,Kurumasushi,Ehime,Sushi
+1,Japan,2,Sushinoma,Ehime,Sushi
+0,Japan,1,Aji Takebayashi,Fukuoka,Japanese
+1,Japan,1,ArénaNEW,Fukuoka,French
+2,Japan,1,Asuke,Fukuoka,Sushi
+3,Japan,1,Au Goût du Jour Merveille Hakata,Fukuoka,French
+4,Japan,1,Hakata Izumi,Fukuoka,Fugu
+5,Japan,1,HananokiNEW,Fukuoka,French
+6,Japan,1,Hiramatsu Hakata,Fukuoka,French
+7,Japan,1,Ippongi IshibashiNEW,Fukuoka,Japanese
+8,Japan,1,KikuzushiNEW,Fukuoka,Sushi
+9,Japan,1,Kyu Katsue,Fukuoka,Japanese
+10,Japan,1,L'Eau BlancheNEW,Fukuoka,French
+11,Japan,1,La Maison de la Nature GohNEW,Fukuoka,French
+12,Japan,1,Le Gingembre,Fukuoka,French
+13,Japan,1,Le Marchand de BonheurNEW,Fukuoka,French
+14,Japan,1,Maison Lafite,Fukuoka,French
+15,Japan,1,Mujinzo,Fukuoka,Japanese
+16,Japan,1,NagaokaNEW,Fukuoka,Japanese
+17,Japan,1,Nishimura Takahito La Cuisine CréativitéNEW,Fukuoka,Fusion
+18,Japan,1,Nishinakasu Shiranita,Fukuoka,Japanese
+19,Japan,1,Oryori Matsuyama,Fukuoka,Japanese
+20,Japan,1,Ryotei Okazaki,Fukuoka,Japanese
+21,Japan,1,Saint-EmilionNEW,Fukuoka,French
+22,Japan,1,Sakana GiyamanNEW,Fukuoka,Japanese
+23,Japan,1,Shirogane NishidaNEW,Fukuoka,Japanese
+24,Japan,1,SokateiNEW,Fukuoka,French
+25,Japan,1,SolaNEW,Fukuoka,French
+26,Japan,1,SourireNEW,Fukuoka,French
+27,Japan,1,Sushi GosuianNEW,Fukuoka,Sushi
+28,Japan,1,Sushi KarashimaNEW,Fukuoka,Sushi
+29,Japan,1,Sushi KotokuNEW,Fukuoka,Sushi
+30,Japan,1,Sushi Kubota,Fukuoka,Sushi
+31,Japan,1,Sushi Kuma,Fukuoka,Sushi
+32,Japan,1,Sushi SoejimaNEW,Fukuoka,Sushi
+33,Japan,1,Sushi Takao,Fukuoka,Sushi
+34,Japan,1,Sushi Takemoto,Fukuoka,Sushi
+35,Japan,1,Sushi Taro,Fukuoka,Sushi
+36,Japan,1,Sushi Tsubasa,Fukuoka,Sushi
+37,Japan,1,Sushi Yoshida,Fukuoka,Sushi
+38,Japan,1,Tashima,Fukuoka,Japanese
+39,Japan,1,Tempura Tenko,Fukuoka,Tempura
+40,Japan,1,Tenzushi Kyomachiten,Fukuoka,Sushi
+41,Japan,1,TobiumeNEW,Fukuoka,Japanese
+42,Japan,1,Toricho Jinroku,Fukuoka,Sushi
+43,Japan,1,TtoahisuNEW,Fukuoka,French
+44,Japan,1,Utsuwaryori Sano,Fukuoka,Japanese
+45,Japan,1,Yachiyo ShikanNEW,Fukuoka,Japanese
+0,Japan,2,Aburayama Sanso,Fukuoka,Fugu
+1,Japan,2,Chakaiseki Nakahan,Fukuoka,Japanese
+2,Japan,2,Chiso Nakamura,Fukuoka,Japanese
+3,Japan,2,Ebisudo,Fukuoka,Japanese
+4,Japan,2,Edomaezushi Nikaku,Fukuoka,Sushi
+5,Japan,2,ImotoNEW,Fukuoka,Japanese
+6,Japan,2,Oryori FurukawaNEW,Fukuoka,Japanese
+7,Japan,2,Oryori Sato,Fukuoka,Japanese
+8,Japan,2,Ryotei Sagano,Fukuoka,Japanese
+9,Japan,2,Tokimune,Fukuoka,Japanese
+0,Japan,3,Sushi Gyoten,Fukuoka,Sushi
+1,Japan,3,Sushi Sakai,Fukuoka,Sushi
+0,Japan,1,Amegen,Saga,Japanese
+1,Japan,1,ArutokoroNEW,Saga,Japanese
+2,Japan,1,HirataNEW,Saga,Japanese
+3,Japan,1,KawashimaNEW,Saga,Japanese
+4,Japan,1,Kira Honten,Saga,Teppanyaki
+5,Japan,1,Sushi Tamon,Saga,Sushi
+6,Japan,1,Tempura Minematsu,Saga,Tempura
+7,Japan,1,Y's Kitchen,Saga,Italian
+8,Japan,1,Yaowa,Saga,Japanese
+9,Japan,1,Yoryutei,Saga,Japanese
+0,Japan,2,Sushidokoro Tsukuta,Saga,Sushi
+0,Japan,1,1er Cru,Nagasaki,French
+1,Japan,1,Aya,Nagasaki,Sushi
+2,Japan,1,Harbor Terrace Sasebo Geihinkan,Nagasaki,French
+3,Japan,1,Impeccable,Nagasaki,French
+4,Japan,1,Koryori Fujio,Nagasaki,Japanese
+5,Japan,1,Pesceco,Nagasaki,Italian
+6,Japan,1,Sushi Dejima,Nagasaki,Sushi
+7,Japan,1,Taki,Nagasaki,Japanese
+8,Japan,1,Villa del Nido,Nagasaki,Italian
+9,Japan,1,Washoku Horita,Nagasaki,Japanese
+0,Japan,2,Agedashi Tempura Tenhiro,Nagasaki,Tempura
+1,Japan,2,Itamaeryori Doyama,Nagasaki,Japanese
+0,Japan,1,Haru,Kumamoto,Teppanyaki
+1,Japan,1,Il Casino,Kumamoto,Italian
+2,Japan,1,Nene,Kumamoto,Japanese
+3,Japan,1,Oden Matsumura,Kumamoto,Oden
+4,Japan,1,Osteria da Rubacuore,Kumamoto,Italian
+5,Japan,1,Saikaido Tokitoki,Kumamoto,Japanese
+6,Japan,1,Sushi Nakamura,Kumamoto,Sushi
+7,Japan,1,Sushi Taito,Kumamoto,Sushi
+8,Japan,1,Waraku Shunsai Kinon,Kumamoto,Japanese
+9,Japan,1,Yakkosushi,Kumamoto,Sushi
+10,Japan,1,Yoshokunomise Hashimoto,Kumamoto,Yoshoku
+0,Japan,2,Rurikon,Kumamoto,Japanese
+1,Japan,2,Shinyashiki Kofukuron,Kumamoto,Japanese
+2,Japan,2,Sushi Sempachi,Kumamoto,Sushi
+0,Japan,1,Aji Arai,Oita,Japanese
+1,Japan,1,Chikushitei,Oita,Japanese
+2,Japan,1,Corque,Oita,French
+3,Japan,1,Ichigoichie,Oita,Japanese
+4,Japan,1,Oita Hanasansho,Oita,Japanese
+5,Japan,1,Oshokujidokoro Hiramatsu,Oita,Japanese
+0,Japan,2,Kikusaiko,Oita,Japanese
+1,Japan,2,Oryori Hatano,Oita,Japanese
+0,Japan,1,Chimatsushima,Miyagi,Japanese
+1,Japan,1,Manmi Takahashi,Miyagi,Japanese
+2,Japan,1,Nacrée,Miyagi,French
+3,Japan,1,Nihonryori e.,Miyagi,Japanese
+4,Japan,1,Okamezushi,Miyagi,Sushi
+5,Japan,1,Okazaki Kasugamachi,Miyagi,Japanese
+6,Japan,1,Okazaki Nishikoenmae,Miyagi,Japanese
+7,Japan,1,Rintaro,Miyagi,Japanese
+8,Japan,1,Shunnoaji Hanaita,Miyagi,Japanese
+9,Japan,1,Sushi Enami,Miyagi,Sushi
+10,Japan,1,Teryori Kikuchi,Miyagi,Japanese
+0,Japan,2,Sushi Yui,Miyagi,Sushi
