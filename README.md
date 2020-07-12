@@ -10,7 +10,7 @@ For this project, I have undertake extensive web scraping to gather data from ac
 
 - Analysis - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%20star%20restaurants%202020.ipynb">here.</a>
 - Web scraping/data gathering - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%202020%20-%20Webscraping%20and%20data%20gathering.ipynb">here.</a>
-- Powerpoint of findings
+- PDF report of main findings
 
 ## Mental health in the UK's BME communities
 
