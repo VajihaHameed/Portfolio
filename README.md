@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio of my data science and data analysis work
+A portfolio of my data science and data analysis work.
 
 ## Michelin guide 2020
 Amongst the culinary world, there is no greater accolade than a restaurant being awarded a Michelin star (or three!). Foodies and fine dine lovers, like myself, see the expereince of dining at one of these award winning restaurants, as just that, an experience, and we take to looking at guides such as the Good Food Guide to help us determine which restaurant is next worth visting.
@@ -14,4 +14,14 @@ For this project, I have undertake extensive web scraping to gather data from ac
 
 ## Mental health in the UK's BME communities
 
+- Analysis
+- PDF report
+
 ## Kaggle's House Prices Project
+As part of Kaggle's playground projects, predicting house prices using advanced regression techniques alongside feature engineering.
+
+- Jupyter notebook
+
+## Titanic Survival
+
+-Jupyter notebook
