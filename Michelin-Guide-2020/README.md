@@ -6,15 +6,15 @@ An analysis of Michelin starred restaurants worldwide 2020
 1. Executive Summary
 
 2. Introduction
-	2.1 The Michelin Guide 2020
-		2.1.1 Awarding system
-		2.1.2 Timeline
-		2.1.3 Criticisms
+2.1 The Michelin Guide 2020
+2.1.1 Awarding system
+2.1.2 Timeline
+	2.1.3 Criticisms
 
 	2.2 The World’s 50 Best Restaurants
-		2.2.1 Judging
-		2.2.2 Timeline
-		2.2.3 Criticisms
+	2.2.1 Judging
+	2.2.2 Timeline
+	2.2.3 Criticisms
 
 	2.3 Exploring both lists
 
