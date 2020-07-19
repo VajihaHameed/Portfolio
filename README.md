@@ -24,6 +24,8 @@ As part of Kaggle's playground projects, predicting house prices using advanced 
 
 - Jupyter notebook - View <a href="https://github.com/VajihaHameed/Portfolio/blob/master/House-Prices/House%20Prices%20-%20Kaggle%20playground%20project.ipynb">here.</a>
 
+![Fig1](https://github.com/VajihaHameed/Portfolio/blob/master/House-Prices/images/img1.png)
+
 ### 2. Titanic Survival
 
 - Jupyter notebook - View <a href="https://github.com/VajihaHameed/Portfolio/blob/master/Titanic/titanic-initial-project.ipynb">here.</a>
