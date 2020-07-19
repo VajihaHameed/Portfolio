@@ -99,7 +99,7 @@ For now, foodies and those looking for gastronomic experiences, will probably co
 
 
 
-## 2. Introduction
+## 2. Introduction
 
 Amongst the culinary world, there are few greater accolades for a restaurant than being awarded a Michelin star (or three!), or being listed as one of the best in the world by reputable guides. Foodies and fine dine lovers, see the experience of dining at one of these award winning restaurants, as just that, an experience, and thus take to looking at guides such as The Michelin Guide and The World’s 50 Best Restaurants  - arguably the two most well known guides - to help determine which restaurant is next worth their time and money visit.
 
@@ -128,7 +128,7 @@ The guide has been criticised for giving unfair bias towards French restaurants 
 
 There have been similar criticisms about the guide being too lenient with restaurants in Japan, given the large number of awards given in the country. However this allegation was counteracted by the fact that there are far greater restaurants in the larger Japanese cities comparatively to other large cities across the world. Eg. Paris has approx 40,000 restaurants, whereas Tokyo has around 160,000 restaurants.
 
-###2.2 The World’s 50 Best Restaurants 2019
+### 2.2 The World’s 50 Best Restaurants 2019
 
 The World’s 50 Best Restaurants Guide is an annual ranking of restaurants across the world, deemed to be the best in the world by a panel of chefs, food writers and culinary experts. It first appeared in the magazine Restaurant in 2002 and since has grown to become one of the main influencers in the restaurant industry, worldwide.
 
@@ -225,8 +225,6 @@ We can see there is a difference between the two sets of data in particular for 
 Upon further investigation, 20 cuisines out of the 103 have three star restaurants (19%). From the table below, we can see that the Creative, Japanese and Modern cuisines do indeed have the highest number of restaurants with the highest 3 star accolade.
 
 ![Fig17](https://github.com/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Images/fig17.png)
-
-
 
 The chart below visualises this information. View interactive version [here](https://chart-studio.plotly.com/~Jia24/14.embed).
 
