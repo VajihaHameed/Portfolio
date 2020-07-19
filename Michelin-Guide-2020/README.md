@@ -1,5 +1,7 @@
 # Michelin Guide 2020
-An analysis of Michelin starred restaurants worldwide 2020
+- Full analysis code - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%20star%20restaurants%202020.ipynb">here.</a>
+- Web scraping/data gathering code - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%202020%20-%20Webscraping%20and%20data%20gathering.ipynb">here.</a>
+- PDF of the below report, or continue to read below- View <a href=https://github.com/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%20Restaurants%20Analysis%20-%20Summary%20Report.pdf>here.</a>
 
 ## Contents
 
