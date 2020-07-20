@@ -13,9 +13,11 @@ By extensively scraping and compiling data to enable exploration of both The Mic
 - Web scraping/data gathering - View <a href="https://nbviewer.jupyter.org/github/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%202020%20-%20Webscraping%20and%20data%20gathering.ipynb">here.</a>
 - PDF report of main findings - View <a href=https://github.com/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Michelin%20Restaurants%20Analysis%20-%20Summary%20Report.pdf>here.</a>
 ![Fig2](https://github.com/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Images/fig2.png)
-### 2. Mental health in the UK's BME communities
+### 2. Access to mental health services in the UK's BME communities
 
-- Analysis - View 
+People from ethnic minorities in the UK, particularly of Asian background, are said to be less likely to access mental health services provide by the NHS. This analysis sets out to see if there is indeed a disparity between services accessed by the asian population vs the white population, and will statistically test if there is a significance difference in the two groups.
+
+- Analysis - View [here](https://github.com/VajihaHameed/Portfolio/blob/master/BME-Mental-Health/BME%20Mental%20Health%20Project.ipynb)
 - PDF report
 
 ## Data Science Projects
