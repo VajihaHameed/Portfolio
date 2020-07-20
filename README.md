@@ -15,7 +15,7 @@ By extensively scraping and compiling data to enable exploration of both The Mic
 ![Fig2](https://github.com/VajihaHameed/Portfolio/blob/master/Michelin-Guide-2020/Images/fig2.png)
 ### 2. Mental health in the UK's BME communities
 
-- Analysis - View <a href="https://github.com/VajihaHameed/Portfolio/blob/master/BME-Mental-Health/BME%20Mental%20Health%20Project.ipynb">here.</a>
+- Analysis - View 
 - PDF report
 
 ## Data Science Projects
