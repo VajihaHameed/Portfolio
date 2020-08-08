@@ -31,3 +31,8 @@ As part of Kaggle's playground projects, predicting house prices using advanced 
 ### 2. Titanic Survival
 
 - Jupyter notebook - View <a href="https://github.com/VajihaHameed/Portfolio/blob/master/Titanic/titanic-initial-project.ipynb">here.</a>
+
+## Tableau Projects
+### World Happiness Report 2019
+View [here](https://public.tableau.com/profile/vajiha#!/vizhome/WorldHappinessReport_15968152141670/Dashboard1)
+
