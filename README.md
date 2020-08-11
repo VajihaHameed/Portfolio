@@ -36,3 +36,6 @@ As part of Kaggle's playground projects, predicting house prices using advanced 
 ### World Happiness Report 2019
 View [here](https://public.tableau.com/profile/vajiha#!/vizhome/WorldHappinessReport_15968152141670/Dashboard1)
 
+### Cancer statistics in UK
+View [here](https://public.tableau.com/views/CancerBreakdown/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
+
